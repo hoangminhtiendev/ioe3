@@ -248,12 +248,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 243,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/let'splayfootball.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/letsplayfootball.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/let'splaytabletennis.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/let'splayfootball.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/let'splayvolleyball.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/letsplaytabletennis.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/letsplayfootball.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/letsplayvolleyball.png"
           ],
           "imageNames": [
             "Let's play table tennis.",
@@ -271,7 +271,7 @@
           "id": 243,
           "sentence": "I'd like some _ _ _ _, please.",
           "imageUrl": "",
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'dlikesomemilkplease.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/idlikesomemilkplease.mp3",
           "answer": "milk",
           "hint": "I'd like some milk, please: Cho mình một ít sữa nhé.",
           "topicId": 3
@@ -616,12 +616,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 244,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/that'saparrot.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thatsaparrot.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/that'saparrot.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/that'sabird.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/that'safrog.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/thatsaparrot.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/thatsabird.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/thatsafrog.png"
           ],
           "imageNames": [
             "That's a parrot.",
@@ -677,7 +677,7 @@
           "id": 244,
           "question": "Listen and choose the correct answer.\nWhat does Bill get for his birthday?",
           "questionImageUrl": "",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/todayisbill'sbirthdayhismumgiveshimanewbookit'sabookaboutanimalsbillreadsiteverynight.mp3",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/todayisbillsbirthdayhismumgiveshimanewbookitsabookaboutanimalsbillreadsiteverynight.mp3",
           "choices": [
             "A. car",
             "B. kite",
@@ -738,12 +738,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 245,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'mreading.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/imreading.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mdrawingapicture.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mlisteningtomusic.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mreading.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imdrawingapicture.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imlisteningtomusic.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imreading.png"
           ],
           "imageNames": [
             "I'm drawing a picture.",
@@ -799,7 +799,7 @@
           "id": 245,
           "question": "Is that Mai?",
           "questionImageUrl": "",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/noitisn't.mp3",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/noitisnt.mp3",
           "choices": [
             "A. No, thanks.",
             "B. No, I don't.",
@@ -878,7 +878,7 @@
           "id": 246,
           "sentence": "I'd like some _ _ _ _ _, please.",
           "imageUrl": "",
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'dlikesomewaterplease.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/idlikesomewaterplease.mp3",
           "answer": "water",
           "hint": "I'd like some water, please: Cho mình một ít nước nhé.",
           "topicId": 3
@@ -916,7 +916,7 @@
           "id": 246,
           "question": "What are you doing?",
           "questionImageUrl": "",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'mwatchingtv.mp3",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/imwatchingtv.mp3",
           "choices": [
             "A. She's watching TV.",
             "B. It's a TV.",
@@ -972,12 +972,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 5,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'mtwentyyearsold.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/imtwentyyearsold.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mtwentyyearsold.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mfourteenyearsold.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mseventeenyearsold.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imtwentyyearsold.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imfourteenyearsold.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imseventeenyearsold.png"
           ],
           "imageNames": [
             "I'm twenty years old.",
@@ -994,7 +994,7 @@
         "value": {
           "id": 3,
           "sentence": "I'm _ _ _ _ _ _ years old.",
-          "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/i'melevenyearsold.png",
+          "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/imelevenyearsold.png",
           "audioUrl": "",
           "answer": "eleven",
           "hint": "I'm eleven years old: Mình mười một tuổi.",
@@ -1175,12 +1175,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 237,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/he'stwelveyearsold.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/hestwelveyearsold.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/he'stwelveyearsold.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/he'sfifteenyearsold.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/he'seighteenyearsold.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/hestwelveyearsold.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/hesfifteenyearsold.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/heseighteenyearsold.png"
           ],
           "imageNames": [
             "He's twelve years old.",
@@ -1534,7 +1534,7 @@
           "id": 249,
           "question": "What's she doing?",
           "questionImageUrl": "",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/she'sskipping.mp3",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/shesskipping.mp3",
           "choices": [
             "A. It's a rope.",
             "B. I'm skipping.",
@@ -1669,12 +1669,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 236,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/they'reyellow.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/theyreyellow.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/they'rered.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/they'regreen.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/they'reyellow.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/theyrered.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/theyregreen.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/theyreyellow.png"
           ],
           "imageNames": [
             "They're red.",
@@ -1734,7 +1734,7 @@
           "id": 6,
           "sentence": "He's _ _ _ _ _ _ years old.",
           "imageUrl": "",
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/he'stwelveyearsold.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/hestwelveyearsold.mp3",
           "answer": "twelve",
           "hint": "He's twelve years old: Cậu ấy mười hai tuổi.",
           "topicId": 1
@@ -1788,12 +1788,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 235,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'smyfather.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsmyfather.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'smysister.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'smygrandmother.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'smyfather.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsmysister.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsmygrandmother.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsmyfather.png"
           ],
           "imageNames": [
             "It's my sister.",
@@ -1903,7 +1903,7 @@
           "id": 250,
           "question": "Listen and choose the correct answer.\nWho is Mai's best friend?",
           "questionImageUrl": "",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/helloi'mmaithisismybestfriendhernameislinhweareinclass3aweplaybadmintonatbreaktime.mp3",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/helloimmaithisismybestfriendhernameislinhweareinclass3aweplaybadmintonatbreaktime.mp3",
           "choices": [
             "A. Minh",
             "B. Ben",
@@ -1919,12 +1919,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 340,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'mwearingorangegloves.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/imwearingorangegloves.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwearingorangegloves.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwearingorangeboots.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwearingorangejeans.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imwearingorangegloves.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imwearingorangeboots.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imwearingorangejeans.png"
           ],
           "imageNames": [
             "I'm wearing orange gloves.",
@@ -1960,12 +1960,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 251,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'saface.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsaface.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'samouth.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'saface.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'sanose.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsamouth.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsaface.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsanose.png"
           ],
           "imageNames": [
             "It's a mouth.",
@@ -2203,12 +2203,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 13,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sblack.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsblack.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'sorange.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'sbrown.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'sblack.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsorange.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsbrown.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsblack.png"
           ],
           "imageNames": [
             "It's orange.",
@@ -2324,12 +2324,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 15,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/that'sapencil.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thatsapencil.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/that'sanotebook.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/that'sacrayon.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/that'sapencil.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/thatsanotebook.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/thatsacrayon.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/thatsapencil.png"
           ],
           "imageNames": [
             "That's a notebook.",
@@ -2449,12 +2449,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 253,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'swhite.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itswhite.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'sgreen.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'sred.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'swhite.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsgreen.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsred.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itswhite.png"
           ],
           "imageNames": [
             "It's green.",
@@ -2526,12 +2526,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 343,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'satruck.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsatruck.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'sateddybear.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'satruck.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'sacar.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsateddybear.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsatruck.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsacar.png"
           ],
           "imageNames": [
             "It's a teddy bear.",
@@ -2573,12 +2573,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 254,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sred.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsred.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'sred.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'spink.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'syellow.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsred.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itspink.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsyellow.png"
           ],
           "imageNames": [
             "It's red.",
@@ -2650,12 +2650,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 344,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/there'sacomputerinthekitchen.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/theresacomputerinthekitchen.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/there'sawindowinthekitchen.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/there'sacomputerinthekitchen.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/there'sadoorinthekitchen.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/theresawindowinthekitchen.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/theresacomputerinthekitchen.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/theresadoorinthekitchen.png"
           ],
           "imageNames": [
             "There's a window in the kitchen.",
@@ -2768,12 +2768,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 345,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'mdancing.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/imdancing.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mplayingbadminton.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mlisteningtomusic.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mdancing.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/implayingbadminton.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imlisteningtomusic.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imdancing.png"
           ],
           "imageNames": [
             "I'm playing badminton.",
@@ -2835,7 +2835,7 @@
           "id": 9,
           "sentence": "She's _ _ _ _ _ _ _ _ years old.",
           "imageUrl": "",
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/she'sthirteenyearsold.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/shesthirteenyearsold.mp3",
           "answer": "thirteen",
           "hint": "She's thirteen years old: Cô ấy mười ba tuổi.",
           "topicId": 1
@@ -3135,12 +3135,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 346,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/let'sgototheclassroom.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/letsgototheclassroom.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/let'sgotothecanteen.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/let'sgotothegym.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/let'sgototheclassroom.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/letsgotothecanteen.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/letsgotothegym.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/letsgototheclassroom.png"
           ],
           "imageNames": [
             "Let's go to the canteen.",
@@ -3176,12 +3176,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 257,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/he'scycling.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/hescycling.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/he'spainting.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/he'scycling.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/he'sskipping.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/hespainting.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/hescycling.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/hesskipping.png"
           ],
           "imageNames": [
             "He's painting.",
@@ -3285,7 +3285,7 @@
           "scramble": [
             "F",
             "A",
-            "M",
+            "Q",
             "C",
             "E."
           ],
@@ -3298,12 +3298,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 258,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/she'saworker.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/shesaworker.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/she'saworker.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/she'sanurse.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/she'sadentist.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/shesaworker.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/shesanurse.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/shesadentist.png"
           ],
           "imageNames": [
             "She's a worker.",
@@ -3538,12 +3538,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 23,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/that'sapen.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thatsapen.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/that'sapencilcase.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/that'sabook.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/that'sapen.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/thatsapencilcase.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/thatsabook.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/thatsapen.png"
           ],
           "imageNames": [
             "That's a pencil case.",
@@ -3560,7 +3560,7 @@
         "value": {
           "id": 12,
           "sentence": "I'm _ _ _ _ _ _ _ _ years old.",
-          "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/i'mfourteenyearsold.png",
+          "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/imfourteenyearsold.png",
           "audioUrl": "",
           "answer": "fourteen",
           "hint": "I'm fourteen years old: Mình mười bốn tuổi.",
@@ -3740,12 +3740,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 349,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'mwearingabrownshirt.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/imwearingabrownshirt.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwearingablueshirt.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwearingaredshirt.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwearingabrownshirt.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imwearingablueshirt.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imwearingaredshirt.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imwearingabrownshirt.png"
           ],
           "imageNames": [
             "I'm wearing a blue shirt.",
@@ -4020,12 +4020,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 25,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'meighteenyearsold.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/imeighteenyearsold.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'melevenyearsold.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'meighteenyearsold.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mtwentyyearsold.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imelevenyearsold.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imeighteenyearsold.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imtwentyyearsold.png"
           ],
           "imageNames": [
             "I'm eleven years old.",
@@ -4097,12 +4097,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 228,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/they'rebrown.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/theyrebrown.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/they'reorange.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/they'reyellow.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/they'rebrown.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/theyreorange.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/theyreyellow.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/theyrebrown.png"
           ],
           "imageNames": [
             "They're orange.",
@@ -4141,12 +4141,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 27,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/she'swalking.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/sheswalking.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/she'swalking.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/she'splayingbadminton.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/she'scycling.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/sheswalking.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/shesplayingbadminton.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/shescycling.png"
           ],
           "imageNames": [
             "She's walking.",
@@ -4389,12 +4389,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 263,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/that'sabook.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thatsabook.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/that'sapencilcase.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/that'sapen.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/that'sabook.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/thatsapencilcase.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/thatsapen.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/thatsabook.png"
           ],
           "imageNames": [
             "That's a pencil case.",
@@ -4466,12 +4466,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 353,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/let'splaybasketball.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/letsplaybasketball.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/let'splaybadminton.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/let'splaybasketball.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/let'splaychess.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/letsplaybadminton.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/letsplaybasketball.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/letsplaychess.png"
           ],
           "imageNames": [
             "Let's play badminton.",
@@ -4513,12 +4513,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 264,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/let'splaybadminton.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/letsplaybadminton.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/let'splayvolleyball.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/let'splaychess.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/let'splaybadminton.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/letsplayvolleyball.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/letsplaychess.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/letsplaybadminton.png"
           ],
           "imageNames": [
             "Let's play volleyball.",
@@ -4654,7 +4654,7 @@
           "id": 15,
           "sentence": "He's _ _ _ _ _ _ _ years old.",
           "imageUrl": "",
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/he'sfifteenyearsold.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/hesfifteenyearsold.mp3",
           "answer": "fifteen",
           "hint": "He's fifteen years old: Cậu ấy mười lăm tuổi.",
           "topicId": 1
@@ -4708,12 +4708,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 226,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/he'spainting.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/hespainting.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/he'sskipping.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/he'spainting.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/he'sclimbing.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/hesskipping.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/hespainting.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/hesclimbing.png"
           ],
           "imageNames": [
             "He's skipping.",
@@ -4749,12 +4749,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 31,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'saneye.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsaneye.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'saleg.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'saface.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'saneye.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsaleg.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsaface.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsaneye.png"
           ],
           "imageNames": [
             "It's a leg.",
@@ -4826,12 +4826,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 225,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/she'sateacher.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/shesateacher.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/she'sadentist.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/she'sateacher.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/she'sadriver.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/shesadentist.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/shesateacher.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/shesadriver.png"
           ],
           "imageNames": [
             "She's a dentist.",
@@ -4859,7 +4859,7 @@
             "M",
             "E",
             "A",
-            "S",
+            "Q",
             "T."
           ],
           "hint": "Meat → thịt",
@@ -4955,12 +4955,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 355,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/let'sgototheartroom.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/letsgototheartroom.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/let'sgotothegym.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/let'sgotothelibrary.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/let'sgototheartroom.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/letsgotothegym.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/letsgotothelibrary.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/letsgototheartroom.png"
           ],
           "imageNames": [
             "Let's go to the gym.",
@@ -4998,12 +4998,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 266,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/he'sadriver.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/hesadriver.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/he'sacook.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/he'sadriver.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/he'safarmer.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/hesacook.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/hesadriver.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/hesafarmer.png"
           ],
           "imageNames": [
             "He's a cook.",
@@ -5075,12 +5075,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 356,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'mskating.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/imskating.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mskating.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mdrawingapicture.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mrunning.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imskating.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imdrawingapicture.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imrunning.png"
           ],
           "imageNames": [
             "I'm skating.",
@@ -5118,12 +5118,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 267,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/there'sachairintheroom.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/theresachairintheroom.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/there'saclockintheroom.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/there'salampintheroom.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/there'sachairintheroom.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/theresaclockintheroom.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/theresalampintheroom.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/theresachairintheroom.png"
           ],
           "imageNames": [
             "There's a clock in the room.",
@@ -5296,7 +5296,7 @@
           "id": 17,
           "question": "Listen and choose the correct answer.\nWhat colour is Nam's bike?",
           "questionImageUrl": "",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/hii'mnamihaveanewbikeitisn'tyelloworgreenmybikeisredirideittotheparkonsundays.mp3",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/hiimnamihaveanewbikeitisntyelloworgreenmybikeisredirideittotheparkonsundays.mp3",
           "choices": [
             "A. yellow",
             "B. red",
@@ -5356,12 +5356,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 35,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/let'sgototheclassroom.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/letsgototheclassroom.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/let'sgotothegym.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/let'sgototheclassroom.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/let'sgotothecanteen.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/letsgotothegym.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/letsgototheclassroom.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/letsgotothecanteen.png"
           ],
           "imageNames": [
             "Let's go to the gym.",
@@ -5379,7 +5379,7 @@
           "id": 18,
           "sentence": "She's _ _ _ _ _ _ _ years old.",
           "imageUrl": "",
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/she'ssixteenyearsold.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/shessixteenyearsold.mp3",
           "answer": "sixteen",
           "hint": "She's sixteen years old: Cô ấy mười sáu tuổi.",
           "topicId": 1
@@ -5433,12 +5433,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 223,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'mthirteenyearsold.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/imthirteenyearsold.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mthirteenyearsold.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mtwentyyearsold.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mseventeenyearsold.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imthirteenyearsold.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imtwentyyearsold.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imseventeenyearsold.png"
           ],
           "imageNames": [
             "I'm thirteen years old.",
@@ -5486,12 +5486,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 268,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'msinging.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/imsinging.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'msinging.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mdrawingapicture.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mreading.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imsinging.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imdrawingapicture.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imreading.png"
           ],
           "imageNames": [
             "I'm singing.",
@@ -5563,12 +5563,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 358,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'mwearingagreenhat.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/imwearingagreenhat.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwearingablackhat.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwearingalightbluehat.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwearingagreenhat.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imwearingablackhat.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imwearingalightbluehat.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imwearingagreenhat.png"
           ],
           "imageNames": [
             "I'm wearing a black hat.",
@@ -5795,7 +5795,7 @@
           "id": 270,
           "question": "What's your name?",
           "questionImageUrl": "",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/myname'slinh.mp3",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/mynameslinh.mp3",
           "choices": [
             "A. It's a pen.",
             "B. No, it isn't.",
@@ -5931,12 +5931,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 222,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sanose.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsanose.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'sanear.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'sanose.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'sahand.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsanear.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsanose.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsahand.png"
           ],
           "imageNames": [
             "It's an ear.",
@@ -6208,16 +6208,16 @@
           "question": "",
           "correctAnswer": [
             "C",
-            "A",
-            "T."
+            "U",
+            "B."
           ],
           "scramble": [
             "C",
-            "A",
-            "E",
-            "T."
+            "W",
+            "U",
+            "B."
           ],
-          "hint": "Cat → con mèo",
+          "hint": "Cub → gấu con",
           "eraseFlag": 0,
           "topicId": 3
         }
@@ -6303,12 +6303,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 362,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/let'splaybadminton.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/letsplaybadminton.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/let'splayvolleyball.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/let'splaybadminton.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/let'splaytennis.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/letsplayvolleyball.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/letsplaybadminton.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/letsplaytennis.png"
           ],
           "imageNames": [
             "Let's play volleyball.",
@@ -6487,7 +6487,7 @@
           "id": 21,
           "sentence": "I'm _ _ _ _ _ _ _ _ _ years old.",
           "imageUrl": "",
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'mseventeenyearsold.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/imseventeenyearsold.mp3",
           "answer": "seventeen",
           "hint": "I'm seventeen years old: Mình mười bảy tuổi.",
           "topicId": 1
@@ -6780,7 +6780,7 @@
           "id": 274,
           "question": "Who's that?",
           "questionImageUrl": "",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'smyfather.mp3",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsmyfather.mp3",
           "choices": [
             "A. He's a job.",
             "B. It's here.",
@@ -6837,12 +6837,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 275,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/she'sfifteenyearsold.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/shesfifteenyearsold.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/she'snineteenyearsold.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/she'sseventeenyearsold.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/she'sfifteenyearsold.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/shesnineteenyearsold.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/shesseventeenyearsold.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/shesfifteenyearsold.png"
           ],
           "imageNames": [
             "She's nineteen years old.",
@@ -7075,12 +7075,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 45,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/she'sasinger.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/shesasinger.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/she'sasinger.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/she'sacook.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/she'saworker.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/shesasinger.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/shesacook.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/shesaworker.png"
           ],
           "imageNames": [
             "She's a singer.",
@@ -7152,12 +7152,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 218,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/he'sskating.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/hesskating.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/he'srunning.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/he'sskating.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/he'sskipping.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/hesrunning.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/hesskating.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/hesskipping.png"
           ],
           "imageNames": [
             "He's running.",
@@ -7216,7 +7216,7 @@
           "id": 24,
           "sentence": "He's _ _ _ _ _ _ _ _ years old.",
           "imageUrl": "",
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/he'seighteenyearsold.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/heseighteenyearsold.mp3",
           "answer": "eighteen",
           "hint": "He's eighteen years old: Cậu ấy mười tám tuổi.",
           "topicId": 1
@@ -7385,7 +7385,7 @@
           "id": 277,
           "question": "What's he doing?",
           "questionImageUrl": "",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/he'scycling.mp3",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/hescycling.mp3",
           "choices": [
             "A. It's a bike.",
             "B. I'm cycling.",
@@ -7401,12 +7401,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 367,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/there'saboardinthelivingroom.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/theresaboardinthelivingroom.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/there'sabedinthelivingroom.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/there'sasofainthelivingroom.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/there'saboardinthelivingroom.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/theresabedinthelivingroom.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/theresasofainthelivingroom.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/theresaboardinthelivingroom.png"
           ],
           "imageNames": [
             "There's a bed in the living room.",
@@ -7446,12 +7446,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 278,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/he'stenyearsold.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/hestenyearsold.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/he'stenyearsold.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/he'sthirteenyearsold.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/he'stwelveyearsold.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/hestenyearsold.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/hesthirteenyearsold.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/hestwelveyearsold.png"
           ],
           "imageNames": [
             "He's ten years old.",
@@ -7590,7 +7590,7 @@
           "id": 279,
           "sentence": "I'm _ _ _ _ _ _ _.",
           "imageUrl": "",
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'mreading.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/imreading.mp3",
           "answer": "reading",
           "hint": "I'm reading: Mình đang đọc sách.",
           "topicId": 3
@@ -7865,7 +7865,7 @@
           "id": 26,
           "question": "Listen and choose the correct answer.\nWhat does Mai eat at break time?",
           "questionImageUrl": "",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/helloi'mmaimyschoolbagispinkthereisarulerandapeninmypencilcaseatbreaktimeieatabananait'syummy.mp3",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/helloimmaimyschoolbagispinkthereisarulerandapeninmypencilcaseatbreaktimeieatabananaitsyummy.mp3",
           "choices": [
             "A. pen",
             "B. banana",
@@ -7993,7 +7993,7 @@
           "id": 280,
           "question": "Listen and choose the correct answer.\nWhat animal does Nam draw?",
           "questionImageUrl": "",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/intheartlessonnamdrawsapicturehedrawsabigbirdinatreethebirdisblueandorangeit'sverybeautiful.mp3",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/intheartlessonnamdrawsapicturehedrawsabigbirdinatreethebirdisblueandorangeitsverybeautiful.mp3",
           "choices": [
             "A. apple",
             "B. ruler",
@@ -8009,12 +8009,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 370,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'mwearingredjeans.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/imwearingredjeans.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwearingredboots.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwearingredjeans.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwearingredshoes.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imwearingredboots.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imwearingredjeans.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imwearingredshoes.png"
           ],
           "imageNames": [
             "I'm wearing red boots.",
@@ -8194,7 +8194,7 @@
           "id": 282,
           "sentence": "I'm _ _ _ _ _ _ _.",
           "imageUrl": "",
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'mwriting.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/imwriting.mp3",
           "answer": "writing",
           "hint": "I'm writing: Mình đang viết.",
           "topicId": 3
@@ -8248,12 +8248,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 372,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sacar.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsacar.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'saplane.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'sacar.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'sadrum.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsaplane.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsacar.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsadrum.png"
           ],
           "imageNames": [
             "It's a plane.",
@@ -8314,7 +8314,7 @@
           "id": 27,
           "sentence": "She's _ _ _ _ _ _ _ _ years old.",
           "imageUrl": "",
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/she'snineteenyearsold.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/shesnineteenyearsold.mp3",
           "answer": "nineteen",
           "hint": "She's nineteen years old: Cô ấy mười chín tuổi.",
           "topicId": 1
@@ -8368,12 +8368,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 54,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/that'sabird.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thatsabird.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/that'saturtle.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/that'sacat.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/that'sabird.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/thatsaturtle.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/thatsacat.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/thatsabird.png"
           ],
           "imageNames": [
             "That's a turtle.",
@@ -8410,12 +8410,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 140,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'dlikesomemilk.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/idlikesomemilk.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'dlikesomecoffee.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'dlikesomemilk.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'dlikesomejuice.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/idlikesomecoffee.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/idlikesomemilk.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/idlikesomejuice.png"
           ],
           "imageNames": [
             "I'd like some coffee.",
@@ -8539,12 +8539,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 283,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/that'sakite.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thatsakite.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/that'satruck.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/that'sakite.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/that'sarobot.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/thatsatruck.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/thatsakite.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/thatsarobot.png"
           ],
           "imageNames": [
             "That's a truck.",
@@ -8600,7 +8600,7 @@
           "id": 283,
           "question": "What colour are they?",
           "questionImageUrl": "",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/they'regreen.mp3",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/theyregreen.mp3",
           "choices": [
             "A. It's a kite.",
             "B. Yes, he is.",
@@ -8657,12 +8657,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 284,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'mtwelveyearsold.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/imtwelveyearsold.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mthirteenyearsold.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mtwelveyearsold.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'meightyearsold.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imthirteenyearsold.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imtwelveyearsold.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imeightyearsold.png"
           ],
           "imageNames": [
             "I'm thirteen years old.",
@@ -8799,7 +8799,7 @@
           "id": 285,
           "sentence": "He's _ _ _ _ _ _ _.",
           "imageUrl": "",
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/he'scycling.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/hescycling.mp3",
           "answer": "cycling",
           "hint": "He's cycling: Cậu ấy đang đạp xe.",
           "topicId": 3
@@ -8894,12 +8894,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 57,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/he'swalking.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/heswalking.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/he'swalking.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/he'spainting.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/he'srunning.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/heswalking.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/hespainting.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/hesrunning.png"
           ],
           "imageNames": [
             "He's walking.",
@@ -9039,7 +9039,7 @@
           "id": 30,
           "sentence": "I'm _ _ _ _ _ _ years old.",
           "imageUrl": "",
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'mtwentyyearsold.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/imtwentyyearsold.mp3",
           "answer": "twenty",
           "hint": "I'm twenty years old: Mình hai mươi tuổi.",
           "topicId": 1
@@ -9219,12 +9219,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 376,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'smyaunt.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsmyaunt.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'smyaunt.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'smysister.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'smygrandfather.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsmyaunt.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsmysister.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsmygrandfather.png"
           ],
           "imageNames": [
             "It's my aunt.",
@@ -9260,12 +9260,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 287,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/she'sskipping.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/shesskipping.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/she'sskipping.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/she'swalking.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/she'sclimbing.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/shesskipping.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/sheswalking.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/shesclimbing.png"
           ],
           "imageNames": [
             "She's skipping.",
@@ -9407,7 +9407,7 @@
           "id": 288,
           "sentence": "He's _ _ _ _ _ _ _.",
           "imageUrl": "",
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/he'sskating.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/hesskating.mp3",
           "answer": "skating",
           "hint": "He's skating: Cậu ấy đang trượt patin.",
           "topicId": 3
@@ -9582,12 +9582,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 62,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/let'splaychess.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/letsplaychess.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/let'splaychess.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/let'splaybaseball.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/let'splaytennis.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/letsplaychess.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/letsplaybaseball.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/letsplaytennis.png"
           ],
           "imageNames": [
             "Let's play chess.",
@@ -9708,12 +9708,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 130,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'dlikesomemeat.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/idlikesomemeat.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'dlikesomemeat.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'dlikesomebeans.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'dlikesomechicken.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/idlikesomemeat.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/idlikesomebeans.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/idlikesomechicken.png"
           ],
           "imageNames": [
             "I'd like some meat.",
@@ -9858,13 +9858,11 @@
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
-            "Hello.",
-            "I'm",
+            "Hello. I'm",
             "Lucy."
           ],
           "scramble": [
-            "Hello.",
-            "I'm",
+            "Hello. I'm",
             "Lucy."
           ],
           "hint": "Xin chào. Mình là Lucy. → Hello. I'm Lucy.",
@@ -10017,7 +10015,7 @@
           "id": 291,
           "sentence": "She's _ _ _ _ _ _ _ _.",
           "imageUrl": "",
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/she'sskipping.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/shesskipping.mp3",
           "answer": "skipping",
           "hint": "She's skipping: Cô ấy đang nhảy dây.",
           "topicId": 3
@@ -10114,12 +10112,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 65,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'mdrawingapicture.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/imdrawingapicture.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'msinging.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mdrawingapicture.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mlisteningtomusic.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imsinging.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imdrawingapicture.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imlisteningtomusic.png"
           ],
           "imageNames": [
             "I'm singing.",
@@ -10137,7 +10135,7 @@
           "id": 33,
           "sentence": "It's a _ _ _ _.",
           "imageUrl": "",
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sanose.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsanose.mp3",
           "answer": "nose",
           "hint": "It's a nose: Đó là cái mũi.",
           "topicId": 1
@@ -10860,7 +10858,7 @@
           "id": 36,
           "sentence": "It's a _ _ _ _.",
           "imageUrl": "",
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'saface.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsaface.mp3",
           "answer": "face",
           "hint": "It's a face: Đó là khuôn mặt.",
           "topicId": 1
@@ -10914,12 +10912,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 124,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'meightyearsold.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/imeightyearsold.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mnineyearsold.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'meightyearsold.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mtwelveyearsold.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imnineyearsold.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imeightyearsold.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imtwelveyearsold.png"
           ],
           "imageNames": [
             "I'm nine years old.",
@@ -11080,12 +11078,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 296,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/she'sskating.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/shesskating.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/she'sskipping.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/she'spainting.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/she'sskating.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/shesskipping.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/shespainting.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/shesskating.png"
           ],
           "imageNames": [
             "She's skipping.",
@@ -11197,12 +11195,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 297,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'mdancing.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/imdancing.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mdancing.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwatchingtv.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mreading.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imdancing.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imwatchingtv.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imreading.png"
           ],
           "imageNames": [
             "I'm dancing.",
@@ -11258,7 +11256,7 @@
           "id": 297,
           "question": "What would you like to drink?",
           "questionImageUrl": "",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'dlikesomemilkplease.mp3",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/idlikesomemilkplease.mp3",
           "choices": [
             "A. I'd like some milk, please.",
             "B. It's milk.",
@@ -11433,12 +11431,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 125,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/she'splayingbadminton.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/shesplayingbadminton.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/she'sskating.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/she'splayingbadminton.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/she'sflyingakite.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/shesskating.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/shesplayingbadminton.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/shesflyingakite.png"
           ],
           "imageNames": [
             "She's skating.",
@@ -11917,12 +11915,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 77,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/let'sgotothegym.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/letsgotothegym.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/let'sgotothegym.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/let'sgototheclassroom.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/let'sgototheoffice.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/letsgotothegym.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/letsgototheclassroom.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/letsgototheoffice.png"
           ],
           "imageNames": [
             "Let's go to the gym.",
@@ -11940,7 +11938,7 @@
           "id": 39,
           "sentence": "It's a _ _ _ _.",
           "imageUrl": "",
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sahand.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsahand.mp3",
           "answer": "hand",
           "hint": "It's a hand: Đó là bàn tay.",
           "topicId": 1
@@ -12036,12 +12034,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 127,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/she'sthirteenyearsold.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/shesthirteenyearsold.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/she'sseventeenyearsold.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/she'stwelveyearsold.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/she'sthirteenyearsold.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/shesseventeenyearsold.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/shestwelveyearsold.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/shesthirteenyearsold.png"
           ],
           "imageNames": [
             "She's seventeen years old.",
@@ -12288,12 +12286,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 302,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'swhite.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itswhite.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'swhite.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'syellow.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'sblack.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itswhite.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsyellow.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsblack.png"
           ],
           "imageNames": [
             "It's white.",
@@ -12494,12 +12492,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 393,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'mwearingascarf.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/imwearingascarf.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwearingascarf.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwearingahat.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwearingashirt.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imwearingascarf.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imwearingahat.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imwearingashirt.png"
           ],
           "imageNames": [
             "I'm wearing a scarf.",
@@ -12681,7 +12679,7 @@
           "id": 42,
           "sentence": "It's an _ _ _.",
           "imageUrl": "",
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sanear.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsanear.mp3",
           "answer": "ear",
           "hint": "It's an ear: Đó là cái tai.",
           "topicId": 1
@@ -12735,12 +12733,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 132,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/that'sabus.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thatsabus.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/that'saship.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/that'sabus.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/that'sadoll.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/thatsaship.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/thatsabus.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/thatsadoll.png"
           ],
           "imageNames": [
             "That's a ship.",
@@ -12785,12 +12783,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 304,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/they'rebrown.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/theyrebrown.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/they'rebrown.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/they'repink.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/they'reorange.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/theyrebrown.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/theyrepink.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/theyreorange.png"
           ],
           "imageNames": [
             "They're brown.",
@@ -12862,12 +12860,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 394,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/let'sgotothegym.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/letsgotothegym.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/let'sgotothelibrary.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/let'sgotothegym.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/let'sgototheartroom.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/letsgotothelibrary.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/letsgotothegym.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/letsgototheartroom.png"
           ],
           "imageNames": [
             "Let's go to the library.",
@@ -13024,12 +13022,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 306,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/there'sabedinthelivingroom.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/theresabedinthelivingroom.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/there'sashelfinthelivingroom.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/there'sabedinthelivingroom.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/there'sachairinthelivingroom.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/theresashelfinthelivingroom.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/theresabedinthelivingroom.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/theresachairinthelivingroom.png"
           ],
           "imageNames": [
             "There's a shelf in the living room.",
@@ -13085,7 +13083,7 @@
           "id": 306,
           "question": "What's your uncle's job?",
           "questionImageUrl": "",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/he'sadriver.mp3",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/hesadriver.mp3",
           "choices": [
             "A. He's driver.",
             "B. He's a driver.",
@@ -13101,12 +13099,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 396,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/they'reblack.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/theyreblack.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/they'reblack.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/they'repink.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/they'regrey.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/theyreblack.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/theyrepink.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/theyregrey.png"
           ],
           "imageNames": [
             "They're black.",
@@ -13232,12 +13230,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 86,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/he'sanurse.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/hesanurse.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/he'saworker.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/he'sanurse.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/he'sapilot.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/hesaworker.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/hesanurse.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/hesapilot.png"
           ],
           "imageNames": [
             "He's a worker.",
@@ -13475,12 +13473,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 397,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/they'rewhite.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/theyrewhite.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/they'reyellow.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/they'redarkblue.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/they'rewhite.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/theyreyellow.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/theyredarkblue.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/theyrewhite.png"
           ],
           "imageNames": [
             "They're yellow.",
@@ -13608,12 +13606,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 398,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'mwearingagreenjacket.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/imwearingagreenjacket.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwearingagreent-shirt.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwearingagreenshirt.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwearingagreenjacket.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imwearingagreent-shirt.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imwearingagreenshirt.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imwearingagreenjacket.png"
           ],
           "imageNames": [
             "I'm wearing a green T-shirt.",
@@ -13652,12 +13650,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 309,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'mwearingapinkt-shirt.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/imwearingapinkt-shirt.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwearingapinkt-shirt.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwearingapinksweater.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwearingapinkdress.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imwearingapinkt-shirt.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imwearingapinksweater.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imwearingapinkdress.png"
           ],
           "imageNames": [
             "I'm wearing a pink T-shirt.",
@@ -13762,7 +13760,7 @@
             "G."
           ],
           "scramble": [
-            "L",
+            "Q",
             "C",
             "O",
             "O",
@@ -13804,7 +13802,7 @@
           "id": 45,
           "sentence": "It's an _ _ _.",
           "imageUrl": "",
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'saneye.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsaneye.mp3",
           "answer": "eye",
           "hint": "It's an eye: Đó là con mắt.",
           "topicId": 1
@@ -14025,12 +14023,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 310,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'mwearingpinksocks.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/imwearingpinksocks.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwearingpinkjeans.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwearingpinksocks.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwearingpinkshoes.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imwearingpinkjeans.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imwearingpinksocks.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imwearingpinkshoes.png"
           ],
           "imageNames": [
             "I'm wearing pink jeans.",
@@ -14288,7 +14286,7 @@
           "id": 312,
           "sentence": "I'm wearing _ _ _ _ _.",
           "imageUrl": "",
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'mwearingboots.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/imwearingboots.mp3",
           "answer": "boots",
           "hint": "I'm wearing boots: Mình đang đi đôi ủng.",
           "topicId": 4
@@ -14342,12 +14340,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 402,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sasheep.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsasheep.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'sasheep.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'sahorse.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'sagoat.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsasheep.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsahorse.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsagoat.png"
           ],
           "imageNames": [
             "It's a sheep.",
@@ -14396,12 +14394,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 93,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sgreen.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsgreen.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'sgrey.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'sbrown.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'sgreen.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsgrey.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsbrown.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsgreen.png"
           ],
           "imageNames": [
             "It's grey.",
@@ -14473,12 +14471,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 94,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'msevenyearsold.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/imsevenyearsold.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mfourteenyearsold.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'msevenyearsold.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mtwentyyearsold.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imfourteenyearsold.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imsevenyearsold.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imtwentyyearsold.png"
           ],
           "imageNames": [
             "I'm fourteen years old.",
@@ -14540,7 +14538,7 @@
           "id": 48,
           "sentence": "It's a _ _ _ _ _.",
           "imageUrl": "",
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'samouth.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsamouth.mp3",
           "answer": "mouth",
           "hint": "It's a mouth: Đó là cái miệng.",
           "topicId": 1
@@ -14641,12 +14639,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 313,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sagoat.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsagoat.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'sakangaroo.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'sagoat.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'sapeacock.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsakangaroo.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsagoat.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsapeacock.png"
           ],
           "imageNames": [
             "It's a kangaroo.",
@@ -14831,7 +14829,7 @@
           "id": 314,
           "question": "What's your brother's job?",
           "questionImageUrl": "",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/he'saworker.mp3",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/hesaworker.mp3",
           "choices": [
             "A. He's a worker.",
             "B. He worker.",
@@ -14891,12 +14889,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 315,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'smymother.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsmymother.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'smycousin.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'smybrother.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'smymother.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsmycousin.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsmybrother.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsmymother.png"
           ],
           "imageNames": [
             "It's my cousin.",
@@ -14968,12 +14966,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 405,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/there'safaninthelivingroom.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/theresafaninthelivingroom.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/there'sacomputerinthelivingroom.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/there'satableinthelivingroom.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/there'safaninthelivingroom.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/theresacomputerinthelivingroom.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/theresatableinthelivingroom.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/theresafaninthelivingroom.png"
           ],
           "imageNames": [
             "There's a computer in the living room.",
@@ -15012,12 +15010,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 97,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'mplayingbasketball.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/implayingbasketball.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mlisteningtomusic.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwatchingtv.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mplayingbasketball.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imlisteningtomusic.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imwatchingtv.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/implayingbasketball.png"
           ],
           "imageNames": [
             "I'm listening to music.",
@@ -15089,12 +15087,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 98,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/they'rewhite.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/theyrewhite.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/they'reblue.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/they'rewhite.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/they'reblack.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/theyreblue.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/theyrewhite.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/theyreblack.png"
           ],
           "imageNames": [
             "They're blue.",
@@ -15132,12 +15130,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 142,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'syellow.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsyellow.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'syellow.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'sblack.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'sgreen.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsyellow.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsblack.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsgreen.png"
           ],
           "imageNames": [
             "It's yellow.",
@@ -15209,12 +15207,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 143,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'mtenyearsold.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/imtenyearsold.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'meightyearsold.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mtenyearsold.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mtwelveyearsold.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imeightyearsold.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imtenyearsold.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imtwelveyearsold.png"
           ],
           "imageNames": [
             "I'm eight years old.",
@@ -15748,12 +15746,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 144,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sblue.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsblue.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'spurple.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'sgrey.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'sblue.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itspurple.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsgrey.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsblue.png"
           ],
           "imageNames": [
             "It's purple.",
@@ -15958,12 +15956,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 409,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'mwearingaredscarf.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/imwearingaredscarf.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwearingaredcoat.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwearingaredsweater.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwearingaredscarf.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imwearingaredcoat.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imwearingaredsweater.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imwearingaredscarf.png"
           ],
           "imageNames": [
             "I'm wearing a red coat.",
@@ -16079,12 +16077,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 410,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'mwearingblackshoes.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/imwearingblackshoes.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwearingblacksocks.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwearingblackshoes.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwearingblackgloves.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imwearingblacksocks.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imwearingblackshoes.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imwearingblackgloves.png"
           ],
           "imageNames": [
             "I'm wearing black socks.",
@@ -16145,8 +16143,8 @@
         "value": {
           "id": 321,
           "sentence": "What's the _ _ _ _ _ doing?",
-          "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/what'sthehorsedoing.png",
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/what'sthehorsedoing.mp3",
+          "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatsthehorsedoing.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/whatsthehorsedoing.mp3",
           "answer": "horse",
           "hint": "What's the horse doing?: Con ngựa đang làm gì?",
           "topicId": 4
@@ -16484,12 +16482,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 322,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'mwearingadress.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/imwearingadress.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwearingacap.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwearingacoat.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwearingadress.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imwearingacap.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imwearingacoat.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/imwearingadress.png"
           ],
           "imageNames": [
             "I'm wearing a cap.",
@@ -16679,12 +16677,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 413,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sred.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsred.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'sgreen.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'sblue.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'sred.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsgreen.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsblue.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsred.png"
           ],
           "imageNames": [
             "It's green.",
@@ -17421,12 +17419,12 @@
         "type": "choosePhoto",
         "value": {
           "id": 417,
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'smybrother.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsmybrother.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'smyuncle.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'smybrother.png",
-            "https://hoangminhtiendev.github.io/ioelop3/photos/it'smysister.png"
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsmyuncle.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsmybrother.png",
+            "https://hoangminhtiendev.github.io/ioelop3/photos/itsmysister.png"
           ],
           "imageNames": [
             "It's my uncle.",
@@ -17995,7 +17993,7 @@
           "id": 330,
           "sentence": "I'm wearing a _ _ _.",
           "imageUrl": "",
-          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'mwearingahat.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/imwearingahat.mp3",
           "answer": "hat",
           "hint": "I'm wearing a hat: Mình đang đội một chiếc mũ.",
           "topicId": 4

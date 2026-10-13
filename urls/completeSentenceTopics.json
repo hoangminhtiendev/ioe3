@@ -23,7 +23,7 @@
       {
         "id": 3,
         "sentence": "I'm _ _ _ _ _ _ years old.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/i'melevenyearsold.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/imelevenyearsold.png",
         "audioUrl": "",
         "answer": "eleven",
         "hint": "I'm eleven years old: Mình mười một tuổi."
@@ -48,7 +48,7 @@
         "id": 6,
         "sentence": "He's _ _ _ _ _ _ years old.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/he'stwelveyearsold.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/hestwelveyearsold.mp3",
         "answer": "twelve",
         "hint": "He's twelve years old: Cậu ấy mười hai tuổi."
       },
@@ -72,7 +72,7 @@
         "id": 9,
         "sentence": "She's _ _ _ _ _ _ _ _ years old.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/she'sthirteenyearsold.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/shesthirteenyearsold.mp3",
         "answer": "thirteen",
         "hint": "She's thirteen years old: Cô ấy mười ba tuổi."
       },
@@ -95,7 +95,7 @@
       {
         "id": 12,
         "sentence": "I'm _ _ _ _ _ _ _ _ years old.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/i'mfourteenyearsold.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/imfourteenyearsold.png",
         "audioUrl": "",
         "answer": "fourteen",
         "hint": "I'm fourteen years old: Mình mười bốn tuổi."
@@ -120,7 +120,7 @@
         "id": 15,
         "sentence": "He's _ _ _ _ _ _ _ years old.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/he'sfifteenyearsold.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/hesfifteenyearsold.mp3",
         "answer": "fifteen",
         "hint": "He's fifteen years old: Cậu ấy mười lăm tuổi."
       },
@@ -144,7 +144,7 @@
         "id": 18,
         "sentence": "She's _ _ _ _ _ _ _ years old.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/she'ssixteenyearsold.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/shessixteenyearsold.mp3",
         "answer": "sixteen",
         "hint": "She's sixteen years old: Cô ấy mười sáu tuổi."
       },
@@ -168,7 +168,7 @@
         "id": 21,
         "sentence": "I'm _ _ _ _ _ _ _ _ _ years old.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'mseventeenyearsold.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/imseventeenyearsold.mp3",
         "answer": "seventeen",
         "hint": "I'm seventeen years old: Mình mười bảy tuổi."
       },
@@ -192,7 +192,7 @@
         "id": 24,
         "sentence": "He's _ _ _ _ _ _ _ _ years old.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/he'seighteenyearsold.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/heseighteenyearsold.mp3",
         "answer": "eighteen",
         "hint": "He's eighteen years old: Cậu ấy mười tám tuổi."
       },
@@ -216,7 +216,7 @@
         "id": 27,
         "sentence": "She's _ _ _ _ _ _ _ _ years old.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/she'snineteenyearsold.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/shesnineteenyearsold.mp3",
         "answer": "nineteen",
         "hint": "She's nineteen years old: Cô ấy mười chín tuổi."
       },
@@ -240,7 +240,7 @@
         "id": 30,
         "sentence": "I'm _ _ _ _ _ _ years old.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'mtwentyyearsold.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/imtwentyyearsold.mp3",
         "answer": "twenty",
         "hint": "I'm twenty years old: Mình hai mươi tuổi."
       },
@@ -264,7 +264,7 @@
         "id": 33,
         "sentence": "It's a _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sanose.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsanose.mp3",
         "answer": "nose",
         "hint": "It's a nose: Đó là cái mũi."
       },
@@ -288,7 +288,7 @@
         "id": 36,
         "sentence": "It's a _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'saface.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsaface.mp3",
         "answer": "face",
         "hint": "It's a face: Đó là khuôn mặt."
       },
@@ -312,7 +312,7 @@
         "id": 39,
         "sentence": "It's a _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sahand.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsahand.mp3",
         "answer": "hand",
         "hint": "It's a hand: Đó là bàn tay."
       },
@@ -336,7 +336,7 @@
         "id": 42,
         "sentence": "It's an _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sanear.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsanear.mp3",
         "answer": "ear",
         "hint": "It's an ear: Đó là cái tai."
       },
@@ -360,7 +360,7 @@
         "id": 45,
         "sentence": "It's an _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'saneye.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsaneye.mp3",
         "answer": "eye",
         "hint": "It's an eye: Đó là con mắt."
       },
@@ -384,7 +384,7 @@
         "id": 48,
         "sentence": "It's a _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'samouth.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsamouth.mp3",
         "answer": "mouth",
         "hint": "It's a mouth: Đó là cái miệng."
       },
@@ -624,7 +624,7 @@
         "id": 78,
         "sentence": "Let's go to the _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/let'sgotothegym.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/letsgotothegym.mp3",
         "answer": "gym",
         "hint": "Let's go to the gym: Chúng ta đến phòng thể dục nào."
       },
@@ -648,7 +648,7 @@
         "id": 81,
         "sentence": "Let's go to the _ _ _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/let'sgotothelibrary.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/letsgotothelibrary.mp3",
         "answer": "library",
         "hint": "Let's go to the library: Chúng ta đến thư viện nào."
       },
@@ -696,7 +696,7 @@
         "id": 87,
         "sentence": "Let's go to the _ _ _ _ _ _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/let'sgototheplayground.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/letsgototheplayground.mp3",
         "answer": "playground",
         "hint": "Let's go to the playground: Chúng ta ra sân chơi nào."
       },
@@ -871,7 +871,7 @@
         "id": 108,
         "sentence": "It's _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sblack.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsblack.mp3",
         "answer": "black",
         "hint": "It's black: Nó màu đen."
       },
@@ -895,7 +895,7 @@
         "id": 111,
         "sentence": "It's _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sblue.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsblue.mp3",
         "answer": "blue",
         "hint": "It's blue: Nó màu xanh dương."
       },
@@ -919,7 +919,7 @@
         "id": 114,
         "sentence": "It's _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sbrown.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsbrown.mp3",
         "answer": "brown",
         "hint": "It's brown: Nó màu nâu."
       },
@@ -943,7 +943,7 @@
         "id": 117,
         "sentence": "It's _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sgreen.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsgreen.mp3",
         "answer": "green",
         "hint": "It's green: Nó màu xanh lá."
       },
@@ -967,7 +967,7 @@
         "id": 120,
         "sentence": "It's _ _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sorange.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsorange.mp3",
         "answer": "orange",
         "hint": "It's orange: Nó màu cam."
       },
@@ -991,7 +991,7 @@
         "id": 123,
         "sentence": "It's _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sred.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsred.mp3",
         "answer": "red",
         "hint": "It's red: Nó màu đỏ."
       },
@@ -1015,7 +1015,7 @@
         "id": 126,
         "sentence": "It's _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'swhite.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itswhite.mp3",
         "answer": "white",
         "hint": "It's white: Nó màu trắng."
       },
@@ -1039,7 +1039,7 @@
         "id": 129,
         "sentence": "It's _ _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'syellow.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsyellow.mp3",
         "answer": "yellow",
         "hint": "It's yellow: Nó màu vàng."
       },
@@ -1063,7 +1063,7 @@
         "id": 132,
         "sentence": "Let's play _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/let'splaychess.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/letsplaychess.mp3",
         "answer": "chess",
         "hint": "Let's play chess: Chúng ta chơi cờ vua nào."
       },
@@ -1087,7 +1087,7 @@
         "id": 135,
         "sentence": "Let's play _ _ _ _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/let'splayfootball.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/letsplayfootball.mp3",
         "answer": "football",
         "hint": "Let's play football: Chúng ta chơi bóng đá nào."
       },
@@ -1111,7 +1111,7 @@
         "id": 138,
         "sentence": "Let's play _ _ _ _ _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/let'splaybadminton.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/letsplaybadminton.mp3",
         "answer": "badminton",
         "hint": "Let's play badminton: Chúng ta chơi cầu lông nào."
       },
@@ -1135,7 +1135,7 @@
         "id": 141,
         "sentence": "Let's play _ _ _ _ _ _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/let'splaybasketball.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/letsplaybasketball.mp3",
         "answer": "basketball",
         "hint": "Let's play basketball: Chúng ta chơi bóng rổ nào."
       },
@@ -1159,7 +1159,7 @@
         "id": 144,
         "sentence": "Let's play _ _ _ _ _ _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/let'splayvolleyball.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/letsplayvolleyball.mp3",
         "answer": "volleyball",
         "hint": "Let's play volleyball: Chúng ta chơi bóng chuyền nào."
       },
@@ -1183,7 +1183,7 @@
         "id": 147,
         "sentence": "It's my _ _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'smymother.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsmymother.mp3",
         "answer": "mother",
         "hint": "It's my mother: Đó là mẹ của mình."
       },
@@ -1207,7 +1207,7 @@
         "id": 150,
         "sentence": "It's my _ _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'smyfather.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsmyfather.mp3",
         "answer": "father",
         "hint": "It's my father: Đó là bố của mình."
       },
@@ -1231,7 +1231,7 @@
         "id": 153,
         "sentence": "It's my _ _ _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'smybrother.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsmybrother.mp3",
         "answer": "brother",
         "hint": "It's my brother: Đó là anh trai của mình."
       },
@@ -1255,7 +1255,7 @@
         "id": 156,
         "sentence": "It's my _ _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'smysister.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsmysister.mp3",
         "answer": "sister",
         "hint": "It's my sister: Đó là chị gái của mình."
       },
@@ -1279,7 +1279,7 @@
         "id": 159,
         "sentence": "He's a _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/he'sacook.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/hesacook.mp3",
         "answer": "cook",
         "hint": "He's a cook: Anh ấy là đầu bếp."
       },
@@ -1303,7 +1303,7 @@
         "id": 162,
         "sentence": "He's a _ _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/he'sadoctor.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/hesadoctor.mp3",
         "answer": "doctor",
         "hint": "He's a doctor: Anh ấy là bác sĩ."
       },
@@ -1327,7 +1327,7 @@
         "id": 165,
         "sentence": "He's a _ _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/he'sadriver.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/hesadriver.mp3",
         "answer": "driver",
         "hint": "He's a driver: Anh ấy là tài xế."
       },
@@ -1351,7 +1351,7 @@
         "id": 168,
         "sentence": "He's a _ _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/he'safarmer.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/hesafarmer.mp3",
         "answer": "farmer",
         "hint": "He's a farmer: Anh ấy là nông dân."
       },
@@ -1375,7 +1375,7 @@
         "id": 171,
         "sentence": "She's a _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/she'sanurse.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/shesanurse.mp3",
         "answer": "nurse",
         "hint": "She's a nurse: Cô ấy là y tá."
       },
@@ -1399,7 +1399,7 @@
         "id": 174,
         "sentence": "She's a _ _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/she'sasinger.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/shesasinger.mp3",
         "answer": "singer",
         "hint": "She's a singer: Cô ấy là ca sĩ."
       },
@@ -1423,7 +1423,7 @@
         "id": 177,
         "sentence": "She's a _ _ _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/she'sateacher.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/shesateacher.mp3",
         "answer": "teacher",
         "hint": "She's a teacher: Cô ấy là giáo viên."
       },
@@ -1447,7 +1447,7 @@
         "id": 180,
         "sentence": "She's a _ _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/she'saworker.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/shesaworker.mp3",
         "answer": "worker",
         "hint": "She's a worker: Cô ấy là công nhân."
       },
@@ -1471,7 +1471,7 @@
         "id": 183,
         "sentence": "Where's the _ _ _ _ _ _ _?",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/where'sthebedroom.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/wheresthebedroom.mp3",
         "answer": "bedroom",
         "hint": "Where's the bedroom?: Phòng ngủ ở đâu?"
       },
@@ -1495,7 +1495,7 @@
         "id": 186,
         "sentence": "Where's the _ _ _ _ _ _ _?",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/where'sthekitchen.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/wheresthekitchen.mp3",
         "answer": "kitchen",
         "hint": "Where's the kitchen?: Nhà bếp ở đâu?"
       },
@@ -1519,7 +1519,7 @@
         "id": 189,
         "sentence": "Where's the _ _ _ _ _ _ _ _?",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/where'sthebathroom.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/wheresthebathroom.mp3",
         "answer": "bathroom",
         "hint": "Where's the bathroom?: Phòng tắm ở đâu?"
       },
@@ -1543,7 +1543,7 @@
         "id": 192,
         "sentence": "There's a _ _ _ in the room.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/there'sabedintheroom.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/theresabedintheroom.mp3",
         "answer": "bed",
         "hint": "There's a bed in the room: Có một cái giường trong phòng."
       },
@@ -1567,7 +1567,7 @@
         "id": 195,
         "sentence": "There's a _ _ _ _ in the room.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/there'sadeskintheroom.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/theresadeskintheroom.mp3",
         "answer": "desk",
         "hint": "There's a desk in the room: Có một cái bàn học trong phòng."
       },
@@ -1591,7 +1591,7 @@
         "id": 198,
         "sentence": "There's a _ _ _ _ in the room.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/there'sadoorintheroom.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/theresadoorintheroom.mp3",
         "answer": "door",
         "hint": "There's a door in the room: Có một cái cửa trong phòng."
       },
@@ -1622,7 +1622,7 @@
         "id": 201,
         "sentence": "There's a _ _ _ _ _ _ in the room.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/there'sawindowintheroom.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/theresawindowintheroom.mp3",
         "answer": "window",
         "hint": "There's a window in the room: Có một cái cửa sổ trong phòng."
       },
@@ -1646,7 +1646,7 @@
         "id": 204,
         "sentence": "There's a _ _ _ _ in the room.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/there'salampintheroom.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/theresalampintheroom.mp3",
         "answer": "lamp",
         "hint": "There's a lamp in the room: Có một cái đèn trong phòng."
       },
@@ -1670,7 +1670,7 @@
         "id": 207,
         "sentence": "There's a _ _ _ _ _ in the room.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/there'satableintheroom.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/theresatableintheroom.mp3",
         "answer": "table",
         "hint": "There's a table in the room: Có một cái bàn trong phòng."
       },
@@ -1694,7 +1694,7 @@
         "id": 210,
         "sentence": "There's a _ _ _ _ _ in the room.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/there'sachairintheroom.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/theresachairintheroom.mp3",
         "answer": "chair",
         "hint": "There's a chair in the room: Có một cái ghế trong phòng."
       },
@@ -1934,7 +1934,7 @@
         "id": 240,
         "sentence": "I'd like some _ _ _ _ _, please.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'dlikesomejuiceplease.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/idlikesomejuiceplease.mp3",
         "answer": "juice",
         "hint": "I'd like some juice, please: Cho mình một ít nước ép nhé."
       },
@@ -1958,7 +1958,7 @@
         "id": 243,
         "sentence": "I'd like some _ _ _ _, please.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'dlikesomemilkplease.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/idlikesomemilkplease.mp3",
         "answer": "milk",
         "hint": "I'd like some milk, please: Cho mình một ít sữa nhé."
       },
@@ -1982,7 +1982,7 @@
         "id": 246,
         "sentence": "I'd like some _ _ _ _ _, please.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'dlikesomewaterplease.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/idlikesomewaterplease.mp3",
         "answer": "water",
         "hint": "I'd like some water, please: Cho mình một ít nước nhé."
       },
@@ -2246,7 +2246,7 @@
         "id": 279,
         "sentence": "I'm _ _ _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'mreading.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/imreading.mp3",
         "answer": "reading",
         "hint": "I'm reading: Mình đang đọc sách."
       },
@@ -2270,7 +2270,7 @@
         "id": 282,
         "sentence": "I'm _ _ _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'mwriting.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/imwriting.mp3",
         "answer": "writing",
         "hint": "I'm writing: Mình đang viết."
       },
@@ -2294,7 +2294,7 @@
         "id": 285,
         "sentence": "He's _ _ _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/he'scycling.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/hescycling.mp3",
         "answer": "cycling",
         "hint": "He's cycling: Cậu ấy đang đạp xe."
       },
@@ -2318,7 +2318,7 @@
         "id": 288,
         "sentence": "He's _ _ _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/he'sskating.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/hesskating.mp3",
         "answer": "skating",
         "hint": "He's skating: Cậu ấy đang trượt patin."
       },
@@ -2342,7 +2342,7 @@
         "id": 291,
         "sentence": "She's _ _ _ _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/she'sskipping.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/shesskipping.mp3",
         "answer": "skipping",
         "hint": "She's skipping: Cô ấy đang nhảy dây."
       },
@@ -2517,7 +2517,7 @@
         "id": 312,
         "sentence": "I'm wearing _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'mwearingboots.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/imwearingboots.mp3",
         "answer": "boots",
         "hint": "I'm wearing boots: Mình đang đi đôi ủng."
       },
@@ -2588,8 +2588,8 @@
       {
         "id": 321,
         "sentence": "What's the _ _ _ _ _ doing?",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/what'sthehorsedoing.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/what'sthehorsedoing.mp3",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatsthehorsedoing.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/whatsthehorsedoing.mp3",
         "answer": "horse",
         "hint": "What's the horse doing?: Con ngựa đang làm gì?"
       },
@@ -2661,7 +2661,7 @@
         "id": 330,
         "sentence": "I'm wearing a _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'mwearingahat.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/imwearingahat.mp3",
         "answer": "hat",
         "hint": "I'm wearing a hat: Mình đang đội một chiếc mũ."
       },
@@ -2685,7 +2685,7 @@
         "id": 333,
         "sentence": "The _ _ _ _ _ _ _ _ can't fly.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/theelephantcan'tfly.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/theelephantcantfly.mp3",
         "answer": "elephant",
         "hint": "The elephant can't fly: Con voi không thể bay."
       },
@@ -2733,7 +2733,7 @@
         "id": 339,
         "sentence": "How old is he? – He's _ _ _ _ _ _ _ years old.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/howoldishe–he'ssixteenyearsold.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/howoldishe-hessixteenyearsold.mp3",
         "answer": "sixteen",
         "hint": "How old is he? – He's sixteen years old: Cậu ấy bao nhiêu tuổi? – Cậu ấy mười sáu tuổi."
       },
@@ -2772,7 +2772,7 @@
       {
         "id": 344,
         "sentence": "I'm wearing a _ _ _ dress.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwearingareddress.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/imwearingareddress.png",
         "audioUrl": "",
         "answer": "red",
         "hint": "I'm wearing a red dress: Mình đang mặc một chiếc váy màu đỏ."
@@ -3021,7 +3021,7 @@
         "id": 375,
         "sentence": "Let's _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/let'splay.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/letsplay.mp3",
         "answer": "play",
         "hint": "Let's play: Chúng ta chơi nào."
       },
@@ -3092,7 +3092,7 @@
       {
         "id": 384,
         "sentence": "I'm wearing a _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwearingashirt.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/imwearingashirt.png",
         "audioUrl": "",
         "answer": "shirt",
         "hint": "I'm wearing a shirt: Mình đang mặc một chiếc áo sơ mi."
@@ -3133,7 +3133,7 @@
         "id": 389,
         "sentence": "A _ _ _ can't swim well.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/acatcan'tswimwell.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/acatcantswimwell.mp3",
         "answer": "cat",
         "hint": "A cat can't swim well: Một con mèo không bơi giỏi."
       },
@@ -3236,7 +3236,7 @@
         "id": 401,
         "sentence": "Don't _ _ _ _!",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/don'ttalk.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/donttalk.mp3",
         "answer": "talk",
         "hint": "Don't talk!: Đừng nói chuyện!"
       },
@@ -3331,7 +3331,7 @@
       {
         "id": 413,
         "sentence": "How old is he? – He's _ _ _ _ _ _ years old.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/howoldishe–he'stwentyyearsold.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/howoldishe-hestwentyyearsold.png",
         "audioUrl": "",
         "answer": "twenty",
         "hint": "How old is he? – He's twenty years old: Cậu ấy bao nhiêu tuổi? – Cậu ấy hai mươi tuổi."
@@ -3404,7 +3404,7 @@
         "id": 422,
         "sentence": "What colour is your _ _ _ _? – It's blue.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/whatcolourisyourkite–it'sblue.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/whatcolourisyourkite-itsblue.mp3",
         "answer": "kite",
         "hint": "What colour is your kite? – It's blue: Cái diều của bạn màu gì? – Nó màu xanh dương."
       },
@@ -3484,7 +3484,7 @@
         "id": 432,
         "sentence": "What's your _ _ _ _ _ _'s job? – He's a doctor.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/what'syourfather'sjob–he'sadoctor.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/whatsyourfathersjob-hesadoctor.mp3",
         "answer": "father",
         "hint": "What's your father's job? – He's a doctor: Bố bạn làm nghề gì? – Ông ấy là bác sĩ."
       },
@@ -3651,7 +3651,7 @@
       {
         "id": 453,
         "sentence": "I'm wearing a _ _ _ _ shirt.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwearingablueshirt.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/imwearingablueshirt.png",
         "audioUrl": "",
         "answer": "blue",
         "hint": "I'm wearing a blue shirt: Mình đang mặc một chiếc áo sơ mi màu xanh dương."
@@ -3747,7 +3747,7 @@
       {
         "id": 465,
         "sentence": "I'm _ _ _ _ _ _ _ a book.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/i'mreadingabook.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/imreadingabook.png",
         "audioUrl": "",
         "answer": "reading",
         "hint": "I'm reading a book: Mình đang đọc một quyển sách."
@@ -3843,8 +3843,8 @@
       {
         "id": 477,
         "sentence": "I'm _ _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/i'mscared.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'mscared.mp3",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/imscared.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/imscared.mp3",
         "answer": "scared",
         "hint": "I'm scared: Mình sợ."
       },
@@ -3931,7 +3931,7 @@
       {
         "id": 488,
         "sentence": "How old is he? – He's _ _ _ _ _ _ _ _ years old.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/howoldishe–he'seighteenyearsold.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/howoldishe-heseighteenyearsold.png",
         "audioUrl": "",
         "answer": "eighteen",
         "hint": "How old is he? – He's eighteen years old: Cậu ấy bao nhiêu tuổi? – Cậu ấy mười tám tuổi."
@@ -3987,7 +3987,7 @@
       {
         "id": 495,
         "sentence": "How old is she? – She's _ _ _ _ _ _ years old.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/howoldisshe–she'selevenyearsold.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/howoldisshe-sheselevenyearsold.png",
         "audioUrl": "",
         "answer": "eleven",
         "hint": "How old is she? – She's eleven years old: Cô ấy bao nhiêu tuổi? – Cô ấy mười một tuổi."
@@ -4114,7 +4114,7 @@
       {
         "id": 510,
         "sentence": "What's the lion doing? – It's _ _ _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/what'stheliondoing–it'srunning.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatstheliondoing-itsrunning.png",
         "audioUrl": "",
         "answer": "running",
         "hint": "What's the lion doing? – It's running: Con sư tử đang làm gì? – Nó đang chạy."
@@ -4178,7 +4178,7 @@
       {
         "id": 518,
         "sentence": "How old is she? – She's _ _ _ _ _ _ _ years old.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/howoldisshe–she'sfifteenyearsold.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/howoldisshe-shesfifteenyearsold.png",
         "audioUrl": "",
         "answer": "fifteen",
         "hint": "How old is she? – She's fifteen years old: Cô ấy bao nhiêu tuổi? – Cô ấy mười lăm tuổi."
@@ -4203,7 +4203,7 @@
         "id": 521,
         "sentence": "What's your _ _ _ _ _'s job? – He's a driver.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/what'syouruncle'sjob–he'sadriver.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/whatsyourunclesjob-hesadriver.mp3",
         "answer": "uncle",
         "hint": "What's your uncle's job? – He's a driver: Chú bạn làm nghề gì? – Ông ấy là tài xế."
       },
@@ -4250,7 +4250,7 @@
       {
         "id": 527,
         "sentence": "I'm _ _ _ _ _ _ _ _ _ to music.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/i'mlisteningtomusic.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/imlisteningtomusic.png",
         "audioUrl": "",
         "answer": "listening",
         "hint": "I'm listening to music: Mình đang nghe nhạc."
@@ -4299,14 +4299,14 @@
         "id": 533,
         "sentence": "It's _ _ _ _ _ blue.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'slightblue.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itslightblue.mp3",
         "answer": "light",
         "hint": "It's light blue: Nó màu xanh nhạt."
       },
       {
         "id": 534,
         "sentence": "How old is she? – She's _ _ _ _ _ _ _ _ years old.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/howoldisshe–she'sthirteenyearsold.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/howoldisshe-shesthirteenyearsold.png",
         "audioUrl": "",
         "answer": "thirteen",
         "hint": "How old is she? – She's thirteen years old: Cô ấy bao nhiêu tuổi? – Cô ấy mười ba tuổi."
@@ -4370,7 +4370,7 @@
       {
         "id": 542,
         "sentence": "What colour is your _ _ _? – It's blue.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatcolourisyourpen–it'sblue.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatcolourisyourpen-itsblue.png",
         "audioUrl": "",
         "answer": "pen",
         "hint": "What colour is your pen? – It's blue: Cây bút của bạn màu gì? – Nó màu xanh dương."
@@ -4419,7 +4419,7 @@
         "id": 548,
         "sentence": "It's _ _ _ _ blue.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sdarkblue.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsdarkblue.mp3",
         "answer": "dark",
         "hint": "It's dark blue: Nó màu xanh đậm."
       },
@@ -4450,7 +4450,7 @@
       {
         "id": 552,
         "sentence": "I'm wearing a _ _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwearingajacket.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/imwearingajacket.png",
         "audioUrl": "",
         "answer": "jacket",
         "hint": "I'm wearing a jacket: Mình đang mặc một chiếc áo khoác."
@@ -4595,7 +4595,7 @@
         "id": 570,
         "sentence": "It's a _ _ _ _ _ day.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sasunnyday.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsasunnyday.mp3",
         "answer": "sunny",
         "hint": "It's a sunny day: Đó là một ngày nắng."
       },
@@ -4642,7 +4642,7 @@
       {
         "id": 576,
         "sentence": "I'm wearing a _ _ _ _ skirt.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwearingapinkskirt.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/imwearingapinkskirt.png",
         "audioUrl": "",
         "answer": "pink",
         "hint": "I'm wearing a pink skirt: Mình đang mặc một chiếc chân váy màu hồng."
@@ -4706,7 +4706,7 @@
       {
         "id": 584,
         "sentence": "What's your _ _ _ _ _ _'s job? – She's a nurse.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/what'syourmother'sjob–she'sanurse.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatsyourmothersjob-shesanurse.png",
         "audioUrl": "",
         "answer": "mother",
         "hint": "What's your mother's job? – She's a nurse: Mẹ bạn làm nghề gì? – Bà ấy là y tá."
@@ -4738,7 +4738,7 @@
       {
         "id": 588,
         "sentence": "Let's _ _ to the library.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/let'sgotothelibrary.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/letsgotothelibrary.png",
         "audioUrl": "",
         "answer": "go",
         "hint": "Let's go to the library: Chúng ta đến thư viện nào."
@@ -4811,7 +4811,7 @@
         "id": 597,
         "sentence": "I'm wearing a _ _ _ _ _ hat.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'mwearingawhitehat.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/imwearingawhitehat.mp3",
         "answer": "white",
         "hint": "I'm wearing a white hat: Mình đang đội một chiếc mũ màu trắng."
       },
@@ -4834,7 +4834,7 @@
       {
         "id": 600,
         "sentence": "How old is he? – He's _ _ _ _ _ _ _ _ _ years old.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/howoldishe–he'sseventeenyearsold.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/howoldishe-hesseventeenyearsold.png",
         "audioUrl": "",
         "answer": "seventeen",
         "hint": "How old is he? – He's seventeen years old: Cậu ấy bao nhiêu tuổi? – Cậu ấy mười bảy tuổi."
@@ -4850,7 +4850,7 @@
         "id": 601,
         "sentence": "What is it? – It's a _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/whatisit–it'sacloud.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/whatisit-itsacloud.mp3",
         "answer": "cloud",
         "hint": "What is it? – It's a cloud: Đó là cái gì? – Đó là đám mây."
       },
@@ -4882,7 +4882,7 @@
         "id": 605,
         "sentence": "When do you have English? – I have English on _ _ _ _ _ _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/whendoyouhaveenglish–ihaveenglishonwednesdays.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/whendoyouhaveenglish-ihaveenglishonwednesdays.mp3",
         "answer": "Wednesdays",
         "hint": "When do you have English? – I have English on Wednesdays: Bạn học Tiếng Anh khi nào? – Mình học vào các thứ Tư."
       },
@@ -4913,7 +4913,7 @@
       {
         "id": 609,
         "sentence": "Who's this? – He's my _ _ _ _ _ _ _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/who'sthis–he'smygrandfather.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whosthis-hesmygrandfather.png",
         "audioUrl": "",
         "answer": "grandfather",
         "hint": "Who's this? – He's my grandfather: Đây là ai? – Đó là ông của mình."
@@ -4921,7 +4921,7 @@
       {
         "id": 610,
         "sentence": "What can you see? – I can see a _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatcanyousee–icanseeagoat.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatcanyousee-icanseeagoat.png",
         "audioUrl": "",
         "answer": "goat",
         "hint": "What can you see? – I can see a goat: Bạn thấy gì? – Mình thấy một con dê."
@@ -4953,7 +4953,7 @@
       {
         "id": 614,
         "sentence": "What is she doing? – She's _ _ _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatisshedoing–she'sskating.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatisshedoing-shesskating.png",
         "audioUrl": "",
         "answer": "skating",
         "hint": "What is she doing? – She's skating: Cô ấy đang làm gì? – Cô ấy đang trượt patin."
@@ -4985,7 +4985,7 @@
       {
         "id": 618,
         "sentence": "Where are you from? – I'm from the _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whereareyoufrom–i'mfromtheusa.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whereareyoufrom-imfromtheusa.png",
         "audioUrl": "",
         "answer": "USA",
         "hint": "Where are you from? – I'm from the USA: Bạn đến từ đâu? – Mình đến từ nước Mĩ."
@@ -4994,7 +4994,7 @@
         "id": 619,
         "sentence": "It's a _ _ _ _ _ _ _!",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'samonster.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsamonster.mp3",
         "answer": "monster",
         "hint": "It's a monster!: Đó là một con quái vật!"
       },
@@ -5018,7 +5018,7 @@
         "id": 622,
         "sentence": "How are you? – I'm _ _ _ _, and you?",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/howareyou–i'mgoodandyou.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/howareyou-imgoodandyou.mp3",
         "answer": "good",
         "hint": "How are you? – I'm good, and you?: Bạn khỏe không? – Mình khỏe, còn bạn thì sao?"
       },
@@ -5058,7 +5058,7 @@
         "id": 627,
         "sentence": "Please don't _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/pleasedon'ttalk.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/pleasedonttalk.mp3",
         "answer": "talk",
         "hint": "Please don't talk: Đừng nói chuyện."
       },
@@ -5074,7 +5074,7 @@
         "id": 629,
         "sentence": "What do you want? – I want a _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/whatdoyouwant–iwantagame.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/whatdoyouwant-iwantagame.mp3",
         "answer": "game",
         "hint": "What do you want? – I want a game: Bạn muốn gì? – Mình muốn một trò chơi."
       },
@@ -5090,7 +5090,7 @@
         "id": 631,
         "sentence": "Where is the _ _ _ _ _ _? – It's there.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/whereisthemirror–it'sthere.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/whereisthemirror-itsthere.mp3",
         "answer": "mirror",
         "hint": "Where is the mirror? – It's there: Chiếc gương ở đâu? – Nó ở kia."
       },
@@ -5106,7 +5106,7 @@
         "id": 633,
         "sentence": "Who's this? – She's my _ _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/who'sthis–she'smycousin.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/whosthis-shesmycousin.mp3",
         "answer": "cousin",
         "hint": "Who's this? – She's my cousin: Đây là ai? – Đó là anh/chị họ của mình."
       },
@@ -5121,7 +5121,7 @@
       {
         "id": 635,
         "sentence": "What's his job? – He's a _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/what'shisjob–he'sacook.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatshisjob-hesacook.png",
         "audioUrl": "",
         "answer": "cook",
         "hint": "What's his job? – He's a cook: Nghề của ông ấy là gì? – Ông ấy là đầu bếp."
@@ -5145,7 +5145,7 @@
       {
         "id": 638,
         "sentence": "What is it? – It's a _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatisit–it'sastar.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatisit-itsastar.png",
         "audioUrl": "",
         "answer": "star",
         "hint": "What is it? – It's a star: Đó là cái gì? – Đó là ngôi sao."
@@ -5273,7 +5273,7 @@
       {
         "id": 654,
         "sentence": "What's her job? – She's a _ _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/what'sherjob–she'sasinger.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatsherjob-shesasinger.png",
         "audioUrl": "",
         "answer": "singer",
         "hint": "What's her job? – She's a singer: Nghề của bà ấy là gì? – Bà ấy là ca sĩ."
@@ -5305,7 +5305,7 @@
       {
         "id": 658,
         "sentence": "What is it? – It's a _ _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatisit–it'saflower.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatisit-itsaflower.png",
         "audioUrl": "",
         "answer": "flower",
         "hint": "What is it? – It's a flower: Đó là cái gì? – Đó là bông hoa."
@@ -5322,14 +5322,14 @@
         "id": 660,
         "sentence": "Who's this? – He's my _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/who'sthis–he'smyuncle.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/whosthis-hesmyuncle.mp3",
         "answer": "uncle",
         "hint": "Who's this? – He's my uncle: Đây là ai? – Đó là chú của mình."
       },
       {
         "id": 661,
         "sentence": "What's her job? – She's a _ _ _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/what'sherjob–she'sateacher.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatsherjob-shesateacher.png",
         "audioUrl": "",
         "answer": "teacher",
         "hint": "What's her job? – She's a teacher: Nghề của bà ấy là gì? – Bà ấy là giáo viên."
@@ -5361,7 +5361,7 @@
       {
         "id": 665,
         "sentence": "What can you see? – I can see a _ _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatcanyousee–icanseearabbit.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatcanyousee-icanseearabbit.png",
         "audioUrl": "",
         "answer": "rabbit",
         "hint": "What can you see? – I can see a rabbit: Bạn thấy gì? – Mình thấy một con thỏ."
@@ -5409,7 +5409,7 @@
       {
         "id": 671,
         "sentence": "I'm good at _ _ _ _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/i'mgoodatcatching.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/imgoodatcatching.png",
         "audioUrl": "",
         "answer": "catching",
         "hint": "I'm good at catching: Mình giỏi bắt bóng."
@@ -5426,7 +5426,7 @@
         "id": 673,
         "sentence": "Let's _ _ _ _ a game.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/let'splayagame.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/letsplayagame.mp3",
         "answer": "play",
         "hint": "Let's play a game: Cùng chơi một trò chơi nào."
       },
@@ -5441,7 +5441,7 @@
       {
         "id": 675,
         "sentence": "What can you see? – I can see a _ _ _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatcanyousee–icanseeagiraffe.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatcanyousee-icanseeagiraffe.png",
         "audioUrl": "",
         "answer": "giraffe",
         "hint": "What can you see? – I can see a giraffe: Bạn thấy gì? – Mình thấy một con hươu cao cổ."
@@ -5505,7 +5505,7 @@
       {
         "id": 683,
         "sentence": "Let's go to the _ _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/let'sgotothemuseum.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/letsgotothemuseum.png",
         "audioUrl": "",
         "answer": "museum",
         "hint": "Let's go to the museum: Cùng đến viện bảo tàng nào."
@@ -5513,7 +5513,7 @@
       {
         "id": 684,
         "sentence": "What are you doing? – I'm _ _ _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatareyoudoing–i'mcooking.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatareyoudoing-imcooking.png",
         "audioUrl": "",
         "answer": "cooking",
         "hint": "What are you doing? – I'm cooking: Bạn đang làm gì? – Mình đang nấu ăn."
@@ -5553,7 +5553,7 @@
       {
         "id": 689,
         "sentence": "It's a big _ _ _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sabigrainbow.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsabigrainbow.png",
         "audioUrl": "",
         "answer": "rainbow",
         "hint": "It's a big rainbow: Đó là một cầu vồng lớn."
@@ -5593,7 +5593,7 @@
       {
         "id": 694,
         "sentence": "What do you want? – I want a _ _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatdoyouwant–iwantapuzzle.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatdoyouwant-iwantapuzzle.png",
         "audioUrl": "",
         "answer": "puzzle",
         "hint": "What do you want? – I want a puzzle: Bạn muốn gì? – Mình muốn một bộ ghép hình."
@@ -5641,7 +5641,7 @@
       {
         "id": 700,
         "sentence": "What is he doing? – He's _ _ _ _ _ _ _ _ TV.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatishedoing–he'swatchingtv.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatishedoing-heswatchingtv.png",
         "audioUrl": "",
         "answer": "watching",
         "hint": "What is he doing? – He's watching TV: Cậu ấy đang làm gì? – Cậu ấy đang xem TV."
@@ -5688,7 +5688,7 @@
       {
         "id": 705,
         "sentence": "I'm wearing _ _ _ _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwearingsneakers.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/imwearingsneakers.png",
         "audioUrl": "",
         "answer": "sneakers",
         "hint": "I'm wearing sneakers: Mình đang đi giày thể thao."
@@ -5736,7 +5736,7 @@
       {
         "id": 711,
         "sentence": "What do you want? – I want a _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatdoyouwant–iwantarobot.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatdoyouwant-iwantarobot.png",
         "audioUrl": "",
         "answer": "robot",
         "hint": "What do you want? – I want a robot: Bạn muốn gì? – Mình muốn một con rô-bốt."
@@ -5752,7 +5752,7 @@
       {
         "id": 713,
         "sentence": "What can you see? – I can see a _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatcanyousee–icanseeasheep.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatcanyousee-icanseeasheep.png",
         "audioUrl": "",
         "answer": "sheep",
         "hint": "What can you see? – I can see a sheep: Bạn thấy gì? – Mình thấy một con cừu."
@@ -5792,7 +5792,7 @@
       {
         "id": 718,
         "sentence": "What is it? – It's a _ _ _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatisit–it'sarainbow.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatisit-itsarainbow.png",
         "audioUrl": "",
         "answer": "rainbow",
         "hint": "What is it? – It's a rainbow: Đó là cái gì? – Đó là cầu vồng."
@@ -5800,7 +5800,7 @@
       {
         "id": 719,
         "sentence": "What is he doing? – He's _ _ _ _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatishedoing–he'spainting.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatishedoing-hespainting.png",
         "audioUrl": "",
         "answer": "painting",
         "hint": "What is he doing? – He's painting: Cậu ấy đang làm gì? – Cậu ấy đang vẽ tranh."
@@ -5881,7 +5881,7 @@
         "id": 729,
         "sentence": "What do you wear at school? – I wear a _ _ _ _ tie.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/whatdoyouwearatschool–iwearabluetie.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/whatdoyouwearatschool-iwearabluetie.mp3",
         "answer": "blue",
         "hint": "What do you wear at school? – I wear a blue tie: Bạn mặc gì ở trường? – Mình đeo cà vạt xanh."
       },
@@ -5904,7 +5904,7 @@
       {
         "id": 732,
         "sentence": "How old are you? – I'm _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/howoldareyou–i'meight.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/howoldareyou-imeight.png",
         "audioUrl": "",
         "answer": "eight",
         "hint": "How old are you? – I'm eight: Bạn bao nhiêu tuổi? – Mình tám tuổi."
@@ -5977,14 +5977,14 @@
         "id": 741,
         "sentence": "It's _ _ _ _ _ time.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sbreaktime.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsbreaktime.mp3",
         "answer": "break",
         "hint": "It's break time: Đến giờ ra chơi rồi."
       },
       {
         "id": 742,
         "sentence": "I'm wearing _ _ _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwearingpajamas.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/imwearingpajamas.png",
         "audioUrl": "",
         "answer": "pajamas",
         "hint": "I'm wearing pajamas: Mình đang mặc bộ đồ ngủ."
@@ -6064,7 +6064,7 @@
       {
         "id": 752,
         "sentence": "I'm wearing _ _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/i'mwearingshorts.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/imwearingshorts.png",
         "audioUrl": "",
         "answer": "shorts",
         "hint": "I'm wearing shorts: Mình đang mặc quần đùi."
@@ -6072,7 +6072,7 @@
       {
         "id": 753,
         "sentence": "What's his job? – He's a _ _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/what'shisjob–he'safarmer.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatshisjob-hesafarmer.png",
         "audioUrl": "",
         "answer": "farmer",
         "hint": "What's his job? – He's a farmer: Nghề của ông ấy là gì? – Ông ấy là nông dân."
@@ -6096,7 +6096,7 @@
       {
         "id": 756,
         "sentence": "What are you wearing? – I'm wearing a _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatareyouwearing–i'mwearingadress.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatareyouwearing-imwearingadress.png",
         "audioUrl": "",
         "answer": "dress",
         "hint": "What are you wearing? – I'm wearing a dress: Bạn đang mặc gì? – Mình đang mặc một chiếc váy."
@@ -6113,7 +6113,7 @@
         "id": 758,
         "sentence": "I'm _ _ _ _. Thank you.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/i'mfinethankyou.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/imfinethankyou.mp3",
         "answer": "fine",
         "hint": "I'm fine. Thank you: Mình khỏe. Cảm ơn bạn."
       },
@@ -6192,7 +6192,7 @@
       {
         "id": 768,
         "sentence": "What is it? – It's a _ _ _ _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatisit–it'samountain.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatisit-itsamountain.png",
         "audioUrl": "",
         "answer": "mountain",
         "hint": "What is it? – It's a mountain: Đó là cái gì? – Đó là ngọn núi."
@@ -6208,7 +6208,7 @@
       {
         "id": 770,
         "sentence": "What are you doing? – I'm _ _ _ _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatareyoudoing–i'mcleaning.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatareyoudoing-imcleaning.png",
         "audioUrl": "",
         "answer": "cleaning",
         "hint": "What are you doing? – I'm cleaning: Bạn đang làm gì? – Mình đang dọn dẹp."
@@ -6216,7 +6216,7 @@
       {
         "id": 771,
         "sentence": "Where are you from? – I'm from the _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whereareyoufrom–i'mfromtheuk.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whereareyoufrom-imfromtheuk.png",
         "audioUrl": "",
         "answer": "UK",
         "hint": "Where are you from? – I'm from the UK: Bạn đến từ đâu? – Mình đến từ nước Anh."
@@ -6233,7 +6233,7 @@
         "id": 773,
         "sentence": "Where is the _ _ _ _? – It's here.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/whereisthesofa–it'shere.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/whereisthesofa-itshere.mp3",
         "answer": "sofa",
         "hint": "Where is the sofa? – It's here: Chiếc ghế sô-pha ở đâu? – Nó ở đây."
       },
@@ -6257,14 +6257,14 @@
         "id": 776,
         "sentence": "Let's _ _ _ _ together.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/let'smovetogether.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/letsmovetogether.mp3",
         "answer": "move",
         "hint": "Let's move together: Cùng di chuyển nào."
       },
       {
         "id": 777,
         "sentence": "What are you wearing? – I'm wearing a _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatareyouwearing–i'mwearingahat.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatareyouwearing-imwearingahat.png",
         "audioUrl": "",
         "answer": "hat",
         "hint": "What are you wearing? – I'm wearing a hat: Bạn đang mặc gì? – Mình đang đội một chiếc mũ."
@@ -6304,7 +6304,7 @@
       {
         "id": 782,
         "sentence": "Where is the _ _ _ _ _ _ _ _ _? – It's on the flower.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whereisthebutterfly–it'sontheflower.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whereisthebutterfly-itsontheflower.png",
         "audioUrl": "",
         "answer": "butterfly",
         "hint": "Where is the butterfly? – It's on the flower: Con bướm ở đâu? – Nó ở trên bông hoa."
@@ -6320,7 +6320,7 @@
       {
         "id": 784,
         "sentence": "What's your favorite food? – My favorite food is _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/what'syourfavoritefood–myfavoritefoodisfish.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatsyourfavoritefood-myfavoritefoodisfish.png",
         "audioUrl": "",
         "answer": "fish",
         "hint": "What's your favorite food? – My favorite food is fish: Món ăn yêu thích của bạn là gì? – Là cá."

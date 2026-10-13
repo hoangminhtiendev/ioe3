@@ -294,7 +294,7 @@
           "M",
           "E",
           "A",
-          "S",
+          "Q",
           "T."
         ],
         "hint": "Meat → thịt",
@@ -1842,7 +1842,7 @@
         ],
         "scramble": [
           "B",
-          "F",
+          "Q",
           "O",
           "Z",
           "X."
@@ -1980,8 +1980,8 @@
         ],
         "scramble": [
           "E",
-          "B",
-          "S",
+          "Q",
+          "X",
           "A",
           "T."
         ],
@@ -2001,7 +2001,7 @@
           "Q",
           "D",
           "A",
-          "M",
+          "X",
           "Y."
         ],
         "hint": "Day → ngày",
@@ -2082,7 +2082,7 @@
           "F",
           "J",
           "I",
-          "B",
+          "Q",
           "G."
         ],
         "hint": "Fig → quả sung",
@@ -2159,7 +2159,7 @@
         ],
         "scramble": [
           "F",
-          "S",
+          "Q",
           "O",
           "O",
           "T."
@@ -2222,7 +2222,7 @@
           "N",
           "H",
           "I",
-          "M",
+          "Q",
           "C",
           "E."
         ],
@@ -2242,7 +2242,7 @@
         "scramble": [
           "G",
           "O",
-          "S",
+          "Q",
           "A",
           "R",
           "T."
@@ -2262,8 +2262,8 @@
         "scramble": [
           "B",
           "A",
-          "H",
-          "M",
+          "Q",
+          "X",
           "T."
         ],
         "hint": "Bat → con dơi",
@@ -2323,7 +2323,7 @@
         "scramble": [
           "C",
           "O",
-          "S",
+          "Q",
           "L",
           "D."
         ],
@@ -2635,20 +2635,20 @@
         "audioUrl": "",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
+          "W",
+          "I",
           "N",
-          "E",
-          "S",
-          "T."
+          "G."
         ],
         "scramble": [
-          "N",
-          "E",
+          "V",
           "Z",
-          "S",
-          "D",
-          "T."
+          "W",
+          "I",
+          "N",
+          "G."
         ],
-        "hint": "Nest → cái tổ",
+        "hint": "Wing → cánh (chim)",
         "eraseFlag": 1
       },
       {
@@ -2797,7 +2797,7 @@
         "scramble": [
           "P",
           "O",
-          "T",
+          "Q",
           "O",
           "L."
         ],
@@ -2816,7 +2816,7 @@
         ],
         "scramble": [
           "B",
-          "A",
+          "X",
           "Q",
           "L",
           "U",
@@ -2837,7 +2837,7 @@
         "scramble": [
           "N",
           "I",
-          "O",
+          "Q",
           "E",
           "W."
         ],
@@ -2869,18 +2869,18 @@
         "audioUrl": "",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
-          "C",
-          "A",
-          "T."
+          "B",
+          "U",
+          "G."
         ],
         "scramble": [
-          "G",
-          "K",
-          "C",
-          "A",
-          "T."
+          "V",
+          "F",
+          "B",
+          "U",
+          "G."
         ],
-        "hint": "Cat → con mèo",
+        "hint": "Bug → con bọ",
         "eraseFlag": 1
       },
       {
@@ -3200,7 +3200,7 @@
         ],
         "scramble": [
           "R",
-          "V",
+          "Q",
           "I",
           "C",
           "E."
@@ -3223,7 +3223,7 @@
           "I",
           "R",
           "B",
-          "W",
+          "Q",
           "E."
         ],
         "hint": "Fire → lửa",
@@ -3263,7 +3263,7 @@
           "G",
           "O",
           "O",
-          "F",
+          "Q",
           "D."
         ],
         "hint": "Good → tốt",
@@ -3301,7 +3301,7 @@
         ],
         "scramble": [
           "V",
-          "G",
+          "Q",
           "E",
           "T."
         ],
@@ -3415,7 +3415,7 @@
         "scramble": [
           "I",
           "C",
-          "T",
+          "Q",
           "E."
         ],
         "hint": "Ice → nước đá",
@@ -3432,7 +3432,7 @@
           "E."
         ],
         "scramble": [
-          "P",
+          "Q",
           "F",
           "A",
           "C",
@@ -3454,7 +3454,7 @@
           "D",
           "I",
           "O",
-          "L",
+          "Q",
           "G."
         ],
         "hint": "Dog → con chó",
@@ -3470,7 +3470,7 @@
           "Y."
         ],
         "scramble": [
-          "E",
+          "Q",
           "S",
           "K",
           "Y."
@@ -3489,7 +3489,7 @@
           "Y."
         ],
         "scramble": [
-          "S",
+          "Q",
           "P",
           "L",
           "E",
@@ -3533,7 +3533,7 @@
           "C",
           "E",
           "O",
-          "R",
+          "Q",
           "W."
         ],
         "hint": "Cow → con bò",
@@ -3604,18 +3604,18 @@
         "audioUrl": "",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
-          "D",
-          "A",
-          "D."
+          "B",
+          "O",
+          "Y."
         ],
         "scramble": [
+          "B",
+          "O",
+          "L",
           "D",
-          "A",
-          "S",
-          "P",
-          "D."
+          "Y."
         ],
-        "hint": "Dad → bố",
+        "hint": "Boy → cậu bé",
         "eraseFlag": 1
       },
       {
@@ -3690,7 +3690,7 @@
         ],
         "scramble": [
           "V",
-          "N",
+          "Q",
           "T",
           "O",
           "E."
@@ -3748,7 +3748,7 @@
           "T."
         ],
         "scramble": [
-          "P",
+          "Q",
           "W",
           "J",
           "E",
@@ -4232,13 +4232,11 @@
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
-          "Hello.",
-          "I'm",
+          "Hello. I'm",
           "Linh."
         ],
         "scramble": [
-          "Hello.",
-          "I'm",
+          "Hello. I'm",
           "Linh."
         ],
         "hint": "Xin chào. Mình là Linh. → Hello. I'm Linh.",
@@ -4936,21 +4934,23 @@
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
-          "H",
+          "D",
           "O",
-          "R",
-          "S",
-          "E."
+          "N",
+          "K",
+          "E",
+          "Y."
         ],
         "scramble": [
-          "H",
+          "D",
           "O",
-          "Q",
-          "R",
-          "S",
-          "E."
+          "N",
+          "K",
+          "X",
+          "E",
+          "Y."
         ],
-        "hint": "Horse → con ngựa",
+        "hint": "Donkey → con lừa",
         "eraseFlag": 0
       },
       {
@@ -5596,9 +5596,9 @@
           "T."
         ],
         "scramble": [
-          "O",
+          "Q",
           "P",
-          "Y",
+          "X",
           "E",
           "T."
         ],
@@ -5651,19 +5651,23 @@
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "L",
-          "I",
-          "M",
+          "Y",
+          "C",
+          "H",
+          "E",
           "E."
         ],
         "scramble": [
+          "D",
           "L",
-          "I",
+          "Y",
+          "C",
           "G",
-          "M",
-          "A",
+          "H",
+          "E",
           "E."
         ],
-        "hint": "Lime → quả chanh xanh",
+        "hint": "Lychee → quả vải",
         "eraseFlag": 1
       },
       {
@@ -5739,7 +5743,7 @@
         ],
         "scramble": [
           "C",
-          "A",
+          "Q",
           "H",
           "U",
           "P."
@@ -5799,7 +5803,7 @@
           "J",
           "I",
           "N",
-          "S",
+          "Q",
           "G."
         ],
         "hint": "King → vua",
@@ -5851,7 +5855,7 @@
           "D."
         ],
         "scramble": [
-          "F",
+          "Q",
           "R",
           "E",
           "D."
@@ -5869,7 +5873,7 @@
           "X."
         ],
         "scramble": [
-          "O",
+          "Q",
           "B",
           "S",
           "I",
@@ -5986,7 +5990,7 @@
           "T."
         ],
         "scramble": [
-          "H",
+          "Q",
           "M",
           "A",
           "K",
@@ -6168,7 +6172,7 @@
         "scramble": [
           "Z",
           "Y",
-          "R",
+          "Q",
           "A",
           "M."
         ],
@@ -6285,8 +6289,8 @@
         ],
         "scramble": [
           "C",
-          "R",
-          "H",
+          "Q",
+          "X",
           "A",
           "V",
           "E."
@@ -6324,9 +6328,9 @@
           "T."
         ],
         "scramble": [
-          "V",
+          "Q",
           "T",
-          "W",
+          "X",
           "E",
           "T."
         ],
@@ -6359,17 +6363,17 @@
         "audioUrl": "",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
-          "R",
-          "A",
-          "T."
+          "P",
+          "U",
+          "P."
         ],
         "scramble": [
-          "R",
-          "A",
           "P",
-          "T."
+          "G",
+          "U",
+          "P."
         ],
-        "hint": "Rat → con chuột",
+        "hint": "Pup → chó con",
         "eraseFlag": 1
       },
       {
@@ -6418,17 +6422,17 @@
         "audioUrl": "",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
-          "A",
-          "R",
-          "T."
+          "G",
+          "Y",
+          "M."
         ],
         "scramble": [
-          "A",
-          "E",
-          "R",
-          "T."
+          "V",
+          "G",
+          "Y",
+          "M."
         ],
-        "hint": "Art → môn mĩ thuật",
+        "hint": "Gym → phòng thể dục",
         "eraseFlag": 1
       },
       {
@@ -6499,7 +6503,7 @@
           "T."
         ],
         "scramble": [
-          "G",
+          "Q",
           "H",
           "O",
           "M",
@@ -6558,7 +6562,7 @@
         "scramble": [
           "S",
           "U",
-          "G",
+          "Q",
           "N."
         ],
         "hint": "Sun → mặt trời",
@@ -6776,7 +6780,7 @@
           "E."
         ],
         "scramble": [
-          "O",
+          "Q",
           "K",
           "V",
           "I",
@@ -6798,7 +6802,7 @@
         ],
         "scramble": [
           "C",
-          "B",
+          "Q",
           "H",
           "I",
           "L",
@@ -6822,7 +6826,7 @@
           "E",
           "L",
           "W",
-          "F",
+          "Q",
           "T."
         ],
         "hint": "Belt → thắt lưng",
@@ -6893,7 +6897,7 @@
         ],
         "scramble": [
           "does",
-          "is tall.",
+          "am",
           "The window",
           "is small."
         ],
@@ -6912,7 +6916,7 @@
         "scramble": [
           "I'm",
           "playing",
-          "hockey.",
+          "does",
           "badminton."
         ],
         "hint": "Mình đang chơi cầu lông. → I'm playing badminton.",
@@ -6932,7 +6936,7 @@
         "scramble": [
           "He",
           "has",
-          "duck.",
+          "are",
           "a",
           "teddy",
           "bear."
@@ -6956,7 +6960,7 @@
           "is",
           "are",
           "new.",
-          "crayon"
+          "am"
         ],
         "hint": "Cái ghế thì mới. → The chair is new.",
         "eraseFlag": 1
@@ -6970,7 +6974,7 @@
           "Ben."
         ],
         "scramble": [
-          "My brother",
+          "am",
           "This is",
           "Ben.",
           "are"
@@ -7007,7 +7011,7 @@
         ],
         "scramble": [
           "The",
-          "little.",
+          "am",
           "table",
           "is",
           "big."
@@ -7024,7 +7028,7 @@
           "blue."
         ],
         "scramble": [
-          "grey.",
+          "does",
           "It's",
           "blue."
         ],
@@ -7077,7 +7081,7 @@
           "car."
         ],
         "scramble": [
-          "pillow.",
+          "are",
           "He",
           "has",
           "a",
@@ -7151,7 +7155,7 @@
           "writing."
         ],
         "scramble": [
-          "running.",
+          "an",
           "door",
           "She's",
           "writing."
@@ -7190,7 +7194,7 @@
           "notebook."
         ],
         "scramble": [
-          "board.",
+          "are",
           "I",
           "have",
           "a",
@@ -7300,7 +7304,7 @@
           "He's",
           "eleven",
           "years",
-          "sixteen",
+          "are",
           "old."
         ],
         "hint": "Cậu ấy mười một tuổi. → He's eleven years old.",
@@ -7331,7 +7335,7 @@
           "a peacock."
         ],
         "scramble": [
-          "can't",
+          "does",
           "I can see",
           "a peacock."
         ],
@@ -7349,7 +7353,7 @@
         "scramble": [
           "I like",
           "does",
-          "a black dress.",
+          "an",
           "swimming."
         ],
         "hint": "Mình thích bơi. → I like swimming.",
@@ -7366,7 +7370,7 @@
           "small."
         ],
         "scramble": [
-          "soft.",
+          "am",
           "are",
           "The",
           "lamp",
@@ -7408,7 +7412,7 @@
         ],
         "scramble": [
           "She's",
-          "worker.",
+          "are",
           "a",
           "nurse."
         ],
@@ -7442,7 +7446,7 @@
           "dancing."
         ],
         "scramble": [
-          "swimming.",
+          "does",
           "I like",
           "dancing."
         ],
@@ -7459,7 +7463,7 @@
           "badminton."
         ],
         "scramble": [
-          "baseball.",
+          "does",
           "He's",
           "zebra",
           "playing",
@@ -8070,7 +8074,7 @@
         "scramble": [
           "R",
           "E",
-          "L",
+          "Q",
           "D."
         ],
         "hint": "Red → màu đỏ",
@@ -8517,7 +8521,7 @@
         "scramble": [
           "F",
           "A",
-          "M",
+          "Q",
           "C",
           "E."
         ],
@@ -8768,16 +8772,16 @@
         "question": "",
         "correctAnswer": [
           "C",
-          "A",
-          "T."
+          "U",
+          "B."
         ],
         "scramble": [
           "C",
-          "A",
-          "E",
-          "T."
+          "W",
+          "U",
+          "B."
         ],
-        "hint": "Cat → con mèo",
+        "hint": "Cub → gấu con",
         "eraseFlag": 0
       },
       {
@@ -9084,13 +9088,11 @@
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
-          "Hello.",
-          "I'm",
+          "Hello. I'm",
           "Lucy."
         ],
         "scramble": [
-          "Hello.",
-          "I'm",
+          "Hello. I'm",
           "Lucy."
         ],
         "hint": "Xin chào. Mình là Lucy. → Hello. I'm Lucy.",
@@ -9296,7 +9298,7 @@
           "singing."
         ],
         "scramble": [
-          "jumping.",
+          "is",
           "I",
           "like",
           "may.",
@@ -9365,7 +9367,7 @@
           "writing."
         ],
         "scramble": [
-          "drawing.",
+          "does",
           "buy",
           "I'm",
           "writing."
@@ -9427,7 +9429,7 @@
           "an",
           "can",
           "see",
-          "can't",
+          "are",
           "a",
           "peacock."
         ],
@@ -9495,7 +9497,7 @@
           "a doctor."
         ],
         "scramble": [
-          "a dentist.",
+          "is",
           "He's",
           "a doctor."
         ],
@@ -9515,7 +9517,7 @@
         "scramble": [
           "He",
           "has",
-          "pencil.",
+          "are",
           "an",
           "a",
           "kite."
@@ -9623,7 +9625,7 @@
         "scramble": [
           "together.",
           "I",
-          "running.",
+          "is",
           "like",
           "swimming."
         ],
@@ -9665,7 +9667,7 @@
           "door",
           "is",
           "an",
-          "lamp",
+          "am",
           "big."
         ],
         "hint": "Cái cửa thì to. → The door is big.",
@@ -9682,7 +9684,7 @@
           "small."
         ],
         "scramble": [
-          "chair",
+          "am",
           "The",
           "are",
           "desk",
@@ -9725,7 +9727,7 @@
           "The chair",
           "are",
           "is old.",
-          "The pen"
+          "am"
         ],
         "hint": "Cái ghế thì cũ. → The chair is old.",
         "eraseFlag": 1
@@ -9777,7 +9779,7 @@
         ],
         "scramble": [
           "Birds",
-          "skipping.",
+          "has",
           "He's",
           "reading."
         ],
@@ -9878,7 +9880,7 @@
           "does",
           "eleven",
           "years",
-          "four",
+          "are",
           "old."
         ],
         "hint": "Mình mười một tuổi. → I'm eleven years old.",
@@ -9917,7 +9919,7 @@
           "He's",
           "boots.",
           "playing",
-          "hockey.",
+          "am",
           "basketball."
         ],
         "hint": "Cậu ấy đang chơi bóng rổ. → He's playing basketball.",
@@ -9952,7 +9954,7 @@
           "a nurse."
         ],
         "scramble": [
-          "a worker.",
+          "is",
           "He's",
           "a nurse."
         ],
@@ -9970,7 +9972,7 @@
         "scramble": [
           "He's",
           "playing basketball.",
-          "playing football.",
+          "is",
           "a pink shirt."
         ],
         "hint": "Cậu ấy đang chơi bóng rổ. → He's playing basketball.",
@@ -10001,7 +10003,7 @@
           "skating."
         ],
         "scramble": [
-          "walking.",
+          "has",
           "He's",
           "skating."
         ],
@@ -10037,8 +10039,8 @@
           "is big."
         ],
         "scramble": [
-          "is warm.",
-          "The pillow",
+          "does",
+          "are",
           "The chair",
           "is big."
         ],
@@ -10070,7 +10072,7 @@
           "is old."
         ],
         "scramble": [
-          "is thin.",
+          "are",
           "The lamp",
           "is old."
         ],
@@ -10087,7 +10089,7 @@
         ],
         "scramble": [
           "I have",
-          "a board.",
+          "are",
           "an",
           "a pen."
         ],
@@ -10128,7 +10130,7 @@
           "She's",
           "a",
           "driver.",
-          "dancer."
+          "am"
         ],
         "hint": "Cô ấy là tài xế. → She's a driver.",
         "eraseFlag": 1
@@ -10163,7 +10165,7 @@
         ],
         "scramble": [
           "He's",
-          "a farmer.",
+          "is",
           "an",
           "a driver."
         ],
@@ -10201,7 +10203,7 @@
           "He's",
           "a",
           "worker.",
-          "doctor."
+          "are"
         ],
         "hint": "Anh ấy là công nhân. → He's a worker.",
         "eraseFlag": 1
@@ -10218,7 +10220,7 @@
           "sneakers.",
           "He's",
           "skipping.",
-          "walking."
+          "has"
         ],
         "hint": "Cậu ấy đang nhảy dây. → He's skipping.",
         "eraseFlag": 1
@@ -10235,7 +10237,7 @@
         ],
         "scramble": [
           "The",
-          "bus",
+          "am",
           "desk",
           "is",
           "big."
@@ -10276,7 +10278,7 @@
         ],
         "scramble": [
           "I",
-          "can't",
+          "is",
           "can",
           "see",
           "a",
@@ -10330,7 +10332,7 @@
           "is old."
         ],
         "scramble": [
-          "The ship",
+          "am",
           "are",
           "The bed",
           "is old."
@@ -10352,7 +10354,7 @@
           "playing",
           "There",
           "badminton.",
-          "basketball."
+          "am"
         ],
         "hint": "Cô ấy đang chơi cầu lông. → She's playing badminton.",
         "eraseFlag": 1
@@ -10372,7 +10374,7 @@
           "fifteen",
           "long.",
           "years",
-          "eleven",
+          "does",
           "old."
         ],
         "hint": "Mình mười lăm tuổi. → I'm fifteen years old.",
@@ -10390,7 +10392,7 @@
         "scramble": [
           "I",
           "like",
-          "writing.",
+          "an",
           "walking."
         ],
         "hint": "Mình thích đi bộ. → I like walking.",
@@ -10405,7 +10407,7 @@
           "is new."
         ],
         "scramble": [
-          "The pencil",
+          "are",
           "The door",
           "is new."
         ],
@@ -10441,7 +10443,7 @@
         ],
         "scramble": [
           "The table",
-          "is round.",
+          "am",
           "is old."
         ],
         "hint": "Cái bàn thì cũ. → The table is old.",
@@ -10480,7 +10482,7 @@
           "door",
           "is",
           "small.",
-          "cabinet"
+          "does"
         ],
         "hint": "Cái cửa thì nhỏ. → The door is small.",
         "eraseFlag": 1
@@ -10549,7 +10551,7 @@
         ],
         "scramble": [
           "The table",
-          "The door",
+          "am",
           "is new.",
           "are"
         ],
@@ -10566,7 +10568,7 @@
         ],
         "scramble": [
           "The door",
-          "The rug",
+          "am",
           "is old."
         ],
         "hint": "Cái cửa thì cũ. → The door is old.",
@@ -10583,7 +10585,7 @@
         ],
         "scramble": [
           "He's",
-          "dogs.",
+          "does",
           "watching",
           "TV."
         ],
@@ -10602,7 +10604,7 @@
         ],
         "scramble": [
           "The",
-          "strong.",
+          "are",
           "bed",
           "is",
           "new."
@@ -10619,7 +10621,7 @@
           "Nam."
         ],
         "scramble": [
-          "rice.",
+          "is",
           "That's",
           "Nam."
         ],
@@ -10636,7 +10638,7 @@
         ],
         "scramble": [
           "I have",
-          "a school chair.",
+          "are",
           "an",
           "a school bag."
         ],
@@ -10657,7 +10659,7 @@
           "a",
           "farmer.",
           "an",
-          "worker."
+          "has"
         ],
         "hint": "Anh ấy là nông dân. → He's a farmer.",
         "eraseFlag": 1
@@ -10676,7 +10678,7 @@
           "She",
           "has",
           "a",
-          "ruler.",
+          "am",
           "bus.",
           "an"
         ],
@@ -10694,7 +10696,7 @@
         "scramble": [
           "He's",
           "It's",
-          "blue.",
+          "does",
           "orange."
         ],
         "hint": "Nó màu cam. → It's orange.",
@@ -10712,11 +10714,11 @@
         ],
         "scramble": [
           "The",
-          "truck",
+          "are",
           "bed",
           "is",
           "big.",
-          "short."
+          "am"
         ],
         "hint": "Cái giường thì to. → The bed is big.",
         "eraseFlag": 1
@@ -10726,14 +10728,12 @@
         "audioUrl": "Hello. I am Lucy.",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
-          "Hello.",
-          "I'm",
+          "Hello. I'm",
           "Lucy."
         ],
         "scramble": [
-          "Hello.",
+          "Hello. I'm",
           "ice",
-          "I'm",
           "fruit",
           "Lucy."
         ],
@@ -10750,7 +10750,7 @@
         ],
         "scramble": [
           "The desk",
-          "The window",
+          "are",
           "is old."
         ],
         "hint": "Cái bàn học thì cũ. → The desk is old.",
@@ -10768,7 +10768,7 @@
           "The desk",
           "are",
           "is big.",
-          "is beautiful."
+          "am"
         ],
         "hint": "Cái bàn học thì to. → The desk is big.",
         "eraseFlag": 1
@@ -10785,7 +10785,7 @@
         "scramble": [
           "Work",
           "I",
-          "singing.",
+          "does",
           "like",
           "painting."
         ],
@@ -10805,9 +10805,9 @@
         "scramble": [
           "The",
           "chair",
-          "bag",
+          "does",
           "is",
-          "new.",
+          "are",
           "old."
         ],
         "hint": "Cái ghế thì cũ. → The chair is old.",
@@ -10823,7 +10823,7 @@
         ],
         "scramble": [
           "I like",
-          "reading.",
+          "an",
           "drawing."
         ],
         "hint": "Mình thích vẽ. → I like drawing.",
@@ -10840,7 +10840,7 @@
         "scramble": [
           "are",
           "The desk",
-          "The pencil",
+          "am",
           "is new."
         ],
         "hint": "Cái bàn học thì mới. → The desk is new.",
@@ -10857,7 +10857,7 @@
         ],
         "scramble": [
           "He's",
-          "dentist.",
+          "are",
           "an",
           "a",
           "singer."
@@ -10896,7 +10896,7 @@
           "I'd",
           "like",
           "some",
-          "egg,",
+          "am",
           "water,",
           "please."
         ],
@@ -10932,7 +10932,7 @@
           "is big."
         ],
         "scramble": [
-          "The cabinet",
+          "am",
           "The lamp",
           "is big.",
           "are"
@@ -10952,7 +10952,7 @@
         "scramble": [
           "I",
           "like",
-          "painting.",
+          "is",
           "running."
         ],
         "hint": "Mình thích chạy bộ. → I like running.",
@@ -11026,7 +11026,7 @@
           "green."
         ],
         "scramble": [
-          "brown.",
+          "does",
           "It's",
           "green."
         ],
@@ -11044,7 +11044,7 @@
         ],
         "scramble": [
           "He's",
-          "driver.",
+          "is",
           "a",
           "cook.",
           "an"
@@ -11079,7 +11079,7 @@
           "kite."
         ],
         "scramble": [
-          "plane.",
+          "are",
           "She's",
           "flying",
           "an",
@@ -11119,7 +11119,7 @@
         ],
         "scramble": [
           "This is",
-          "a brown hat.",
+          "am",
           "Mary.",
           "are"
         ],
@@ -11330,7 +11330,7 @@
           "G."
         ],
         "scramble": [
-          "L",
+          "Q",
           "C",
           "O",
           "O",
@@ -13073,7 +13073,7 @@
           "E",
           "A",
           "C",
-          "R",
+          "Q",
           "H."
         ],
         "hint": "Peach → quả đào",
@@ -13224,22 +13224,22 @@
         "audioUrl": "",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
-          "L",
-          "E",
-          "M",
-          "O",
-          "N."
+          "G",
+          "U",
+          "A",
+          "V",
+          "A."
         ],
         "scramble": [
-          "T",
-          "L",
-          "E",
-          "M",
-          "Y",
-          "O",
-          "N."
+          "G",
+          "U",
+          "F",
+          "A",
+          "V",
+          "Z",
+          "A."
         ],
-        "hint": "Lemon → quả chanh",
+        "hint": "Guava → quả ổi",
         "eraseFlag": 1
       },
       {
@@ -13393,7 +13393,7 @@
           "O",
           "O",
           "T",
-          "K",
+          "Q",
           "S."
         ],
         "hint": "Boots → đôi ủng",
@@ -13457,7 +13457,7 @@
           "O",
           "N",
           "I",
-          "B",
+          "Q",
           "U",
           "T."
         ],
@@ -13477,7 +13477,7 @@
         "scramble": [
           "S",
           "T",
-          "E",
+          "Q",
           "A",
           "R."
         ],
@@ -13495,7 +13495,7 @@
           "E."
         ],
         "scramble": [
-          "I",
+          "Q",
           "B",
           "T",
           "R",
@@ -13641,21 +13641,21 @@
         "audioUrl": "",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
-          "C",
-          "L",
+          "S",
+          "T",
           "O",
-          "U",
-          "D."
+          "R",
+          "M."
         ],
         "scramble": [
-          "C",
-          "L",
+          "H",
+          "S",
+          "T",
           "O",
-          "M",
-          "U",
-          "D."
+          "R",
+          "M."
         ],
-        "hint": "Cloud → đám mây",
+        "hint": "Storm → cơn bão",
         "eraseFlag": 1
       },
       {
@@ -13734,7 +13734,7 @@
         ],
         "scramble": [
           "R",
-          "F",
+          "Q",
           "O",
           "C",
           "A",
@@ -13803,7 +13803,7 @@
           "M",
           "O",
           "U",
-          "S",
+          "Q",
           "T",
           "H."
         ],
@@ -13988,21 +13988,21 @@
         "audioUrl": "",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
-          "M",
-          "E",
+          "A",
+          "P",
+          "P",
           "L",
-          "O",
-          "N."
+          "E."
         ],
         "scramble": [
-          "M",
-          "E",
+          "A",
+          "P",
+          "J",
+          "P",
           "L",
-          "O",
-          "H",
-          "N."
+          "E."
         ],
-        "hint": "Melon → quả dưa",
+        "hint": "Apple → quả táo",
         "eraseFlag": 1
       },
       {
@@ -14084,7 +14084,7 @@
           "D",
           "A",
           "N",
-          "L",
+          "Q",
           "O",
           "C",
           "E."
@@ -14119,22 +14119,22 @@
         "audioUrl": "",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
-          "B",
-          "O",
+          "C",
+          "H",
           "A",
-          "R",
-          "D."
+          "L",
+          "K."
         ],
         "scramble": [
-          "Q",
-          "B",
-          "N",
-          "O",
+          "G",
+          "C",
+          "H",
           "A",
-          "R",
-          "D."
+          "Q",
+          "L",
+          "K."
         ],
-        "hint": "Board → cái bảng",
+        "hint": "Chalk → viên phấn",
         "eraseFlag": 1
       },
       {
@@ -14162,22 +14162,22 @@
         "audioUrl": "",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
-          "E",
-          "L",
-          "B",
-          "O",
-          "W."
+          "T",
+          "H",
+          "U",
+          "M",
+          "B."
         ],
         "scramble": [
-          "E",
-          "L",
-          "C",
-          "A",
-          "B",
-          "O",
-          "W."
+          "T",
+          "D",
+          "H",
+          "Q",
+          "U",
+          "M",
+          "B."
         ],
-        "hint": "Elbow → khuỷu tay",
+        "hint": "Thumb → ngón tay cái",
         "eraseFlag": 1
       },
       {
@@ -14260,7 +14260,7 @@
         ],
         "scramble": [
           "W",
-          "C",
+          "Q",
           "R",
           "A",
           "S",
@@ -14306,7 +14306,7 @@
           "R",
           "O",
           "A",
-          "C",
+          "Q",
           "U",
           "D."
         ],
@@ -14392,7 +14392,7 @@
         ],
         "scramble": [
           "B",
-          "H",
+          "Q",
           "R",
           "E",
           "A",
@@ -14452,21 +14452,19 @@
         "audioUrl": "",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
-          "S",
-          "H",
+          "O",
+          "V",
           "A",
-          "P",
-          "E."
+          "L."
         ],
         "scramble": [
-          "S",
-          "X",
-          "H",
+          "O",
+          "V",
           "A",
-          "P",
-          "E."
+          "Z",
+          "L."
         ],
-        "hint": "Shape → hình dạng",
+        "hint": "Oval → hình bầu dục",
         "eraseFlag": 1
       },
       {
@@ -14624,21 +14622,21 @@
         "audioUrl": "",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
-          "H",
-          "O",
-          "R",
-          "S",
-          "E."
+          "C",
+          "A",
+          "M",
+          "E",
+          "L."
         ],
         "scramble": [
-          "H",
-          "N",
-          "O",
+          "C",
+          "A",
+          "M",
           "R",
-          "S",
-          "E."
+          "E",
+          "L."
         ],
-        "hint": "Horse → con ngựa",
+        "hint": "Camel → con lạc đà",
         "eraseFlag": 1
       },
       {
@@ -14755,22 +14753,24 @@
         "audioUrl": "",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
-          "T",
-          "I",
-          "R",
+          "S",
+          "L",
           "E",
-          "D."
+          "E",
+          "P",
+          "Y."
         ],
         "scramble": [
           "S",
-          "Z",
-          "T",
-          "I",
-          "R",
+          "L",
+          "N",
           "E",
-          "D."
+          "E",
+          "X",
+          "P",
+          "Y."
         ],
-        "hint": "Tired → mệt",
+        "hint": "Sleepy → buồn ngủ",
         "eraseFlag": 1
       },
       {
@@ -14808,7 +14808,7 @@
         ],
         "scramble": [
           "P",
-          "T",
+          "Q",
           "A",
           "P",
           "E",
@@ -15007,7 +15007,7 @@
           "E."
         ],
         "scramble": [
-          "L",
+          "Q",
           "W",
           "H",
           "I",
@@ -15142,7 +15142,7 @@
           "H",
           "O",
           "U",
-          "C",
+          "Q",
           "S",
           "F",
           "E."
@@ -15162,7 +15162,7 @@
           "T."
         ],
         "scramble": [
-          "W",
+          "Q",
           "L",
           "S",
           "H",
@@ -15277,7 +15277,7 @@
           "P",
           "O",
           "R",
-          "W",
+          "Q",
           "T."
         ],
         "hint": "Sport → thể thao",
@@ -15814,8 +15814,7 @@
           "colour",
           "is",
           "your",
-          "shirt?",
-          "It's",
+          "shirt? It's",
           "blue."
         ],
         "scramble": [
@@ -15823,8 +15822,7 @@
           "colour",
           "is",
           "your",
-          "shirt?",
-          "It's",
+          "shirt? It's",
           "blue."
         ],
         "hint": "Áo sơ mi của bạn màu gì? Nó màu xanh dương. → What colour is your shirt? It's blue.",
@@ -17581,7 +17579,7 @@
           "I",
           "N",
           "B",
-          "K",
+          "Q",
           "G."
         ],
         "hint": "Ring → chiếc nhẫn",
@@ -17688,8 +17686,8 @@
           "L."
         ],
         "scramble": [
-          "C",
-          "H",
+          "Q",
+          "X",
           "W",
           "A",
           "L",
@@ -17726,22 +17724,22 @@
         "audioUrl": "",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
-          "T",
-          "H",
-          "R",
+          "S",
           "E",
-          "E."
+          "V",
+          "E",
+          "N."
         ],
         "scramble": [
-          "T",
-          "Q",
-          "M",
-          "H",
-          "R",
+          "S",
+          "Y",
           "E",
-          "E."
+          "V",
+          "F",
+          "E",
+          "N."
         ],
-        "hint": "Three → số ba",
+        "hint": "Seven → số bảy",
         "eraseFlag": 1
       },
       {
@@ -17825,7 +17823,7 @@
         "scramble": [
           "M",
           "O",
-          "H",
+          "Q",
           "N",
           "U",
           "S",
@@ -18025,7 +18023,7 @@
           "J",
           "E",
           "A",
-          "O",
+          "Q",
           "P",
           "N",
           "S."
@@ -18174,19 +18172,21 @@
         "audioUrl": "",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
-          "V",
-          "A",
-          "S",
-          "E."
+          "B",
+          "R",
+          "O",
+          "O",
+          "M."
         ],
         "scramble": [
-          "V",
-          "A",
-          "H",
-          "S",
-          "E."
+          "B",
+          "Q",
+          "R",
+          "O",
+          "O",
+          "M."
         ],
-        "hint": "Vase → lọ hoa",
+        "hint": "Broom → cái chổi",
         "eraseFlag": 1
       },
       {
@@ -18201,7 +18201,7 @@
           "Y."
         ],
         "scramble": [
-          "G",
+          "Q",
           "R",
           "A",
           "I",
@@ -18293,7 +18293,7 @@
           "S",
           "H",
           "B",
-          "K",
+          "Q",
           "I",
           "R",
           "T."
@@ -18540,7 +18540,7 @@
           "A",
           "B",
           "L",
-          "C",
+          "Q",
           "U",
           "E."
         ],
@@ -18649,7 +18649,7 @@
           "W",
           "O",
           "A",
-          "M",
+          "Q",
           "K",
           "E."
         ],
@@ -18770,7 +18770,7 @@
           "badminton?",
           "can",
           "read.",
-          "can't"
+          "am"
         ],
         "hint": "Cô ấy có thể đọc. → She can read.",
         "eraseFlag": 1
@@ -18913,11 +18913,11 @@
         ],
         "scramble": [
           "I'm",
-          "grey",
+          "am",
           "wearing",
           "an",
           "orange",
-          "a",
+          "does",
           "shirt."
         ],
         "hint": "Mình đang mặc một chiếc áo sơ mi màu cam. → I'm wearing an orange shirt.",
@@ -18956,7 +18956,7 @@
         ],
         "scramble": [
           "There",
-          "fourteen",
+          "am",
           "are",
           "twelve",
           "toys",
@@ -19015,7 +19015,7 @@
           "My",
           "aunt",
           "is",
-          "teacher.",
+          "am",
           "a",
           "farmer."
         ],
@@ -19033,7 +19033,7 @@
           "hair."
         ],
         "scramble": [
-          "soft",
+          "am",
           "reads",
           "She",
           "has",
@@ -19057,7 +19057,7 @@
           "thin",
           "an",
           "cat",
-          "little"
+          "does"
         ],
         "hint": "một con mèo gầy → a thin cat",
         "eraseFlag": 1
@@ -19122,7 +19122,7 @@
           "a",
           "an",
           "book",
-          "library.",
+          "are",
           "in",
           "the",
           "bedroom."
@@ -19140,7 +19140,7 @@
           "swim."
         ],
         "scramble": [
-          "can't",
+          "am",
           "He",
           "can",
           "swim."
@@ -19179,7 +19179,7 @@
         ],
         "scramble": [
           "I'm",
-          "sweater.",
+          "does",
           "wearing",
           "a",
           "an",
@@ -19225,7 +19225,7 @@
         ],
         "scramble": [
           "My sister",
-          "a pilot.",
+          "are",
           "is",
           "a singer."
         ],
@@ -19299,7 +19299,7 @@
           "boat."
         ],
         "scramble": [
-          "notebook.",
+          "does",
           "This",
           "is",
           "a",
@@ -19319,7 +19319,7 @@
         ],
         "scramble": [
           "an",
-          "a grey skirt.",
+          "is",
           "I'm wearing",
           "a green skirt."
         ],
@@ -19416,7 +19416,7 @@
           "My",
           "sister",
           "is",
-          "farmer.",
+          "does",
           "a",
           "an",
           "driver."
@@ -19437,7 +19437,7 @@
         ],
         "scramble": [
           "My",
-          "pilot.",
+          "are",
           "father",
           "is",
           "a",
@@ -19458,7 +19458,7 @@
           "doctor."
         ],
         "scramble": [
-          "farmer.",
+          "are",
           "My",
           "aunt",
           "is",
@@ -19521,7 +19521,7 @@
           "door"
         ],
         "scramble": [
-          "window",
+          "am",
           "open",
           "the",
           "door"
@@ -19563,7 +19563,7 @@
         ],
         "scramble": [
           "My",
-          "singer.",
+          "are",
           "aunt",
           "is",
           "a",
@@ -19922,21 +19922,23 @@
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
-          "L",
-          "E",
-          "M",
-          "O",
+          "D",
+          "U",
+          "R",
+          "I",
+          "A",
           "N."
         ],
         "scramble": [
+          "D",
+          "U",
+          "R",
+          "I",
           "Z",
-          "L",
-          "E",
-          "M",
-          "O",
+          "A",
           "N."
         ],
-        "hint": "Lemon → quả chanh",
+        "hint": "Durian → quả sầu riêng",
         "eraseFlag": 0
       },
       {
@@ -19984,21 +19986,23 @@
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
-          "M",
-          "E",
           "L",
           "O",
+          "N",
+          "G",
+          "A",
           "N."
         ],
         "scramble": [
-          "M",
-          "E",
-          "Q",
           "L",
+          "K",
           "O",
+          "N",
+          "G",
+          "A",
           "N."
         ],
-        "hint": "Melon → quả dưa",
+        "hint": "Longan → quả nhãn",
         "eraseFlag": 0
       },
       {
@@ -20255,7 +20259,7 @@
         "scramble": [
           "H",
           "P",
-          "A",
+          "Q",
           "I",
           "C",
           "T",
@@ -21635,7 +21639,7 @@
         ],
         "scramble": [
           "My father",
-          "a driver.",
+          "am",
           "is",
           "are",
           "a singer."
@@ -21714,7 +21718,7 @@
           "I",
           "can",
           "see",
-          "can't",
+          "is",
           "a",
           "bird."
         ],
@@ -21740,7 +21744,7 @@
           "is",
           "a",
           "computer",
-          "playground.",
+          "are",
           "in",
           "the",
           "bedroom."
@@ -21794,7 +21798,7 @@
           "read."
         ],
         "scramble": [
-          "can't",
+          "does",
           "day",
           "I",
           "can",
@@ -21832,7 +21836,7 @@
           "dress."
         ],
         "scramble": [
-          "pink",
+          "is",
           "I'm",
           "wearing",
           "a",
@@ -21854,7 +21858,7 @@
         ],
         "scramble": [
           "equals",
-          "can't",
+          "is",
           "Birds",
           "can",
           "fly."
@@ -21913,7 +21917,7 @@
           "hair."
         ],
         "scramble": [
-          "thin",
+          "am",
           "She",
           "has",
           "table",
@@ -21944,7 +21948,7 @@
           "on",
           "the",
           "shelf.",
-          "nineteen"
+          "does"
         ],
         "hint": "Có mười món đồ chơi trên kệ. → There are ten toys on the shelf.",
         "eraseFlag": 1
@@ -22030,7 +22034,7 @@
           "doll",
           "in",
           "the",
-          "gym.",
+          "am",
           "bedroom."
         ],
         "hint": "Có một con búp bê trong phòng ngủ. → There is a doll in the bedroom.",
@@ -22205,7 +22209,7 @@
         ],
         "scramble": [
           "are",
-          "farmer.",
+          "does",
           "My",
           "brother",
           "is",
@@ -22226,7 +22230,7 @@
         "scramble": [
           "I'm wearing",
           "a black hat.",
-          "a pink hat."
+          "is"
         ],
         "hint": "Mình đang đội một chiếc mũ màu đen. → I'm wearing a black hat.",
         "eraseFlag": 1
@@ -22273,7 +22277,7 @@
         "scramble": [
           "an",
           "There",
-          "gym.",
+          "are",
           "is",
           "a",
           "desk",
@@ -22356,7 +22360,7 @@
           "There",
           "is",
           "a",
-          "boat",
+          "are",
           "drum",
           "in",
           "the",
@@ -22410,7 +22414,7 @@
           "swim."
         ],
         "scramble": [
-          "can't",
+          "am",
           "She",
           "can",
           "swim."
@@ -22430,7 +22434,7 @@
           "I'm wearing",
           "a yellow skirt.",
           "an",
-          "a grey skirt."
+          "am"
         ],
         "hint": "Mình đang mặc một chiếc váy màu vàng. → I'm wearing a yellow skirt.",
         "eraseFlag": 1
@@ -22444,7 +22448,7 @@
           "a white shirt."
         ],
         "scramble": [
-          "a grey shirt.",
+          "does",
           "I'm wearing",
           "a white shirt.",
           "an"
@@ -22466,7 +22470,7 @@
           "is",
           "a doctor.",
           "an",
-          "a teacher."
+          "are"
         ],
         "hint": "Chú mình là bác sĩ. → My uncle is a doctor.",
         "eraseFlag": 1
@@ -22542,7 +22546,7 @@
           "wearing",
           "an",
           "a",
-          "pink",
+          "am",
           "brown",
           "dress."
         ],
@@ -22581,7 +22585,7 @@
           "is",
           "are",
           "a doctor.",
-          "a cook."
+          "am"
         ],
         "hint": "Anh trai mình là bác sĩ. → My brother is a doctor.",
         "eraseFlag": 1
@@ -22598,7 +22602,7 @@
         "scramble": [
           "I",
           "can",
-          "can't",
+          "is",
           "sing."
         ],
         "hint": "Mình có thể hát. → I can sing.",
@@ -22617,7 +22621,7 @@
           "He",
           "can",
           "read.",
-          "can't"
+          "are"
         ],
         "hint": "Cậu ấy có thể đọc. → He can read.",
         "eraseFlag": 1
@@ -22635,7 +22639,7 @@
           "He",
           "can",
           "sing.",
-          "can't"
+          "am"
         ],
         "hint": "Cậu ấy có thể hát. → He can sing.",
         "eraseFlag": 1
@@ -22680,7 +22684,7 @@
           "is",
           "an",
           "a farmer.",
-          "a doctor."
+          "does"
         ],
         "hint": "Chị gái mình là nông dân. → My sister is a farmer.",
         "eraseFlag": 1
@@ -22719,7 +22723,7 @@
           "is",
           "a",
           "driver.",
-          "worker."
+          "are"
         ],
         "hint": "Chú mình là tài xế. → My uncle is a driver.",
         "eraseFlag": 1
@@ -22735,7 +22739,7 @@
         ],
         "scramble": [
           "I",
-          "can't",
+          "are",
           "can",
           "swim."
         ],
@@ -22754,7 +22758,7 @@
           "driver."
         ],
         "scramble": [
-          "cook.",
+          "am",
           "My",
           "mother",
           "is",
@@ -22774,7 +22778,7 @@
           "a doctor."
         ],
         "scramble": [
-          "a teacher.",
+          "am",
           "My father",
           "is",
           "a doctor.",
@@ -22850,7 +22854,7 @@
         ],
         "scramble": [
           "I'm wearing",
-          "a grey shirt.",
+          "are",
           "an",
           "a pink shirt."
         ],
@@ -22870,7 +22874,7 @@
           "an",
           "a",
           "new",
-          "strong",
+          "has",
           "bike"
         ],
         "hint": "một chiếc xe đạp mới → a new bike",
@@ -22890,7 +22894,7 @@
         "scramble": [
           "I'm",
           "wearing",
-          "orange",
+          "am",
           "a",
           "red",
           "skirt."
@@ -22915,7 +22919,7 @@
           "a",
           "an",
           "black",
-          "skirt.",
+          "does",
           "shirt."
         ],
         "hint": "Mình đang mặc một chiếc áo sơ mi màu đen. → I'm wearing a black shirt.",
@@ -22935,7 +22939,7 @@
           "zebra",
           "can",
           "jump.",
-          "can't"
+          "an"
         ],
         "hint": "Cô ấy có thể nhảy. → She can jump.",
         "eraseFlag": 1
@@ -22949,7 +22953,7 @@
           "dogs."
         ],
         "scramble": [
-          "a doll.",
+          "is",
           "I like",
           "dogs."
         ],
@@ -22968,9 +22972,9 @@
         "scramble": [
           "There is",
           "a drum",
-          "a truck",
+          "are",
           "in the bedroom.",
-          "in the library."
+          "am"
         ],
         "hint": "Có một cái trống trong phòng ngủ. → There is a drum in the bedroom.",
         "eraseFlag": 1
@@ -23002,9 +23006,9 @@
           "birds."
         ],
         "scramble": [
-          "a sweater.",
+          "does",
           "I like",
-          "the zoo.",
+          "an",
           "birds."
         ],
         "hint": "Mình thích những con chim. → I like birds.",
@@ -23024,7 +23028,7 @@
           "This",
           "is",
           "a",
-          "bag.",
+          "does",
           "are",
           "ruler."
         ],
@@ -23048,7 +23052,7 @@
           "a",
           "yellow",
           "shirt.",
-          "pink"
+          "is"
         ],
         "hint": "Mình đang mặc một chiếc áo sơ mi màu vàng. → I'm wearing a yellow shirt.",
         "eraseFlag": 1
@@ -23102,7 +23106,7 @@
         ],
         "scramble": [
           "My uncle",
-          "a singer.",
+          "am",
           "are",
           "is",
           "a nurse."
@@ -23122,7 +23126,7 @@
         "scramble": [
           "ao",
           "She",
-          "can't",
+          "am",
           "can",
           "write."
         ],
@@ -23146,7 +23150,7 @@
           "is",
           "are",
           "a",
-          "teacher.",
+          "does",
           "doctor."
         ],
         "hint": "Chú mình là bác sĩ. → My uncle is a doctor.",
@@ -23182,7 +23186,7 @@
         ],
         "scramble": [
           "I'm wearing",
-          "a brown skirt.",
+          "is",
           "a blue skirt."
         ],
         "hint": "Mình đang mặc một chiếc váy màu xanh dương. → I'm wearing a blue skirt.",
@@ -23200,9 +23204,9 @@
         "scramble": [
           "He",
           "can",
-          "can't",
+          "are",
           "write.",
-          "fly."
+          "am"
         ],
         "hint": "Cậu ấy có thể viết. → He can write.",
         "eraseFlag": 1
@@ -23238,7 +23242,7 @@
           "I",
           "can",
           "write.",
-          "can't"
+          "does"
         ],
         "hint": "Mình có thể viết. → I can write.",
         "eraseFlag": 1
@@ -23282,7 +23286,7 @@
         ],
         "scramble": [
           "I'm",
-          "coat.",
+          "is",
           "wearing",
           "an",
           "orange",
@@ -23349,7 +23353,7 @@
         ],
         "scramble": [
           "I'm wearing",
-          "a pink hat.",
+          "has",
           "a brown hat.",
           "an"
         ],
@@ -23370,7 +23374,7 @@
           "I",
           "like",
           "grapes.",
-          "autumn."
+          "does"
         ],
         "hint": "Mình thích những quả nho. → I like grapes.",
         "eraseFlag": 1
@@ -23397,7 +23401,7 @@
           "the",
           "drum.",
           "shelf.",
-          "six"
+          "does"
         ],
         "hint": "Có mười quyển sách trên kệ. → There are ten books on the shelf.",
         "eraseFlag": 1
@@ -23412,7 +23416,7 @@
           "dance."
         ],
         "scramble": [
-          "can't",
+          "an",
           "He",
           "can",
           "dance."
@@ -23451,7 +23455,7 @@
           "a nurse."
         ],
         "scramble": [
-          "a singer.",
+          "are",
           "My sister",
           "an",
           "is",
@@ -23473,7 +23477,7 @@
           "He",
           "can",
           "catch.",
-          "can't"
+          "am"
         ],
         "hint": "Cậu ấy có thể bắt bóng. → He can catch.",
         "eraseFlag": 1
@@ -23494,7 +23498,7 @@
         "scramble": [
           "There",
           "is",
-          "classroom.",
+          "am",
           "a",
           "ball",
           "in",
@@ -23516,7 +23520,7 @@
           "nurse."
         ],
         "scramble": [
-          "pilot.",
+          "does",
           "My",
           "mother",
           "an",
@@ -23539,7 +23543,7 @@
           "I'm wearing",
           "a yellow dress.",
           "an",
-          "a grey dress."
+          "is"
         ],
         "hint": "Mình đang mặc một chiếc đầm màu vàng. → I'm wearing a yellow dress.",
         "eraseFlag": 1
@@ -23584,7 +23588,7 @@
           "a",
           "singer.",
           "an",
-          "teacher."
+          "are"
         ],
         "hint": "Cô mình là ca sĩ. → My aunt is a singer.",
         "eraseFlag": 1
@@ -23601,7 +23605,7 @@
           "hat."
         ],
         "scramble": [
-          "skirt.",
+          "has",
           "I'm",
           "wearing",
           "a",
@@ -23622,7 +23626,7 @@
           "in the bedroom."
         ],
         "scramble": [
-          "a board",
+          "am",
           "There is",
           "a computer",
           "in the bedroom."
@@ -23810,15 +23814,13 @@
         "question": "",
         "correctAnswer": [
           "Who's",
-          "this?",
-          "He's",
+          "this? He's",
           "my",
           "uncle."
         ],
         "scramble": [
           "Who's",
-          "this?",
-          "He's",
+          "this? He's",
           "my",
           "uncle."
         ],
@@ -23834,9 +23836,7 @@
           "are",
           "you",
           "good",
-          "at?",
-          "I'm",
-          "good",
+          "at? I'm good",
           "at",
           "dancing."
         ],
@@ -23845,9 +23845,7 @@
           "are",
           "you",
           "good",
-          "at?",
-          "I'm",
-          "good",
+          "at? I'm good",
           "at",
           "dancing."
         ],
@@ -24047,8 +24045,7 @@
           "Can",
           "you",
           "play",
-          "soccer?",
-          "Yes,",
+          "soccer? Yes,",
           "I",
           "can."
         ],
@@ -24056,8 +24053,7 @@
           "Can",
           "you",
           "play",
-          "soccer?",
-          "Yes,",
+          "soccer? Yes,",
           "I",
           "can."
         ],
@@ -24282,16 +24278,14 @@
         "correctAnswer": [
           "What's",
           "your",
-          "name?",
-          "My",
+          "name? My",
           "name's",
           "Tom."
         ],
         "scramble": [
           "What's",
           "your",
-          "name?",
-          "My",
+          "name? My",
           "name's",
           "Tom."
         ],
@@ -24412,15 +24406,13 @@
         "question": "",
         "correctAnswer": [
           "Who's",
-          "this?",
-          "She's",
+          "this? She's",
           "my",
           "cousin."
         ],
         "scramble": [
           "Who's",
-          "this?",
-          "She's",
+          "this? She's",
           "my",
           "cousin."
         ],
@@ -24476,16 +24468,14 @@
         "correctAnswer": [
           "What's",
           "your",
-          "name?",
-          "My",
+          "name? My",
           "name's",
           "Eddie."
         ],
         "scramble": [
           "What's",
           "your",
-          "name?",
-          "My",
+          "name? My",
           "name's",
           "Eddie."
         ],
@@ -24868,8 +24858,7 @@
           "May",
           "I",
           "go",
-          "swimming?",
-          "Yes,",
+          "swimming? Yes,",
           "you",
           "may."
         ],
@@ -24877,8 +24866,7 @@
           "May",
           "I",
           "go",
-          "swimming?",
-          "Yes,",
+          "swimming? Yes,",
           "you",
           "may."
         ],
@@ -24893,8 +24881,7 @@
           "Do",
           "you",
           "like",
-          "art?",
-          "Yes,",
+          "art? Yes,",
           "I",
           "do."
         ],
@@ -24902,8 +24889,7 @@
           "Do",
           "you",
           "like",
-          "art?",
-          "Yes,",
+          "art? Yes,",
           "I",
           "do."
         ],
@@ -25183,16 +25169,14 @@
           "How",
           "old",
           "are",
-          "you?",
-          "I'm",
+          "you? I'm",
           "twelve."
         ],
         "scramble": [
           "How",
           "old",
           "are",
-          "you?",
-          "I'm",
+          "you? I'm",
           "twelve."
         ],
         "hint": "Bạn bao nhiêu tuổi? Mình mười hai tuổi. → How old are you? I'm twelve.",
@@ -25206,8 +25190,7 @@
           "Can",
           "you",
           "play",
-          "volleyball?",
-          "Yes,",
+          "volleyball? Yes,",
           "I",
           "can."
         ],
@@ -25215,8 +25198,7 @@
           "Can",
           "you",
           "play",
-          "volleyball?",
-          "Yes,",
+          "volleyball? Yes,",
           "I",
           "can."
         ],
@@ -25232,9 +25214,7 @@
           "are",
           "you",
           "good",
-          "at?",
-          "I'm",
-          "good",
+          "at? I'm good",
           "at",
           "swimming."
         ],
@@ -25243,9 +25223,7 @@
           "are",
           "you",
           "good",
-          "at?",
-          "I'm",
-          "good",
+          "at? I'm good",
           "at",
           "swimming."
         ],
@@ -25276,8 +25254,7 @@
           "Do",
           "you",
           "like",
-          "P.E.?",
-          "Yes,",
+          "P.E.? Yes,",
           "I",
           "do."
         ],
@@ -25285,8 +25262,7 @@
           "Do",
           "you",
           "like",
-          "P.E.?",
-          "Yes,",
+          "P.E.? Yes,",
           "I",
           "do."
         ],
@@ -25318,8 +25294,7 @@
           "Can",
           "you",
           "play",
-          "badminton?",
-          "Yes,",
+          "badminton? Yes,",
           "I",
           "can."
         ],
@@ -25327,8 +25302,7 @@
           "Can",
           "you",
           "play",
-          "badminton?",
-          "Yes,",
+          "badminton? Yes,",
           "I",
           "can."
         ],
@@ -25411,16 +25385,14 @@
           "How",
           "old",
           "are",
-          "you?",
-          "I'm",
+          "you? I'm",
           "eight."
         ],
         "scramble": [
           "How",
           "old",
           "are",
-          "you?",
-          "I'm",
+          "you? I'm",
           "eight."
         ],
         "hint": "Bạn bao nhiêu tuổi? Mình tám tuổi. → How old are you? I'm eight.",
@@ -25469,8 +25441,7 @@
           "Where",
           "are",
           "you",
-          "from?",
-          "I'm",
+          "from? I'm",
           "from",
           "Japan."
         ],
@@ -25478,8 +25449,7 @@
           "Where",
           "are",
           "you",
-          "from?",
-          "I'm",
+          "from? I'm",
           "from",
           "Japan."
         ],
@@ -25580,16 +25550,14 @@
         "correctAnswer": [
           "What",
           "is",
-          "it?",
-          "It's",
+          "it? It's",
           "a",
           "star."
         ],
         "scramble": [
           "What",
           "is",
-          "it?",
-          "It's",
+          "it? It's",
           "a",
           "star."
         ],
@@ -25732,7 +25700,7 @@
           "E",
           "A",
           "N",
-          "U",
+          "Q",
           "E",
           "R."
         ],
@@ -25784,7 +25752,7 @@
           "D",
           "A",
           "V",
-          "L",
+          "Q",
           "Y."
         ],
         "hint": "Friday → thứ Sáu",
@@ -26480,7 +26448,7 @@
           "R."
         ],
         "scramble": [
-          "C",
+          "Q",
           "P",
           "O",
           "S",
@@ -27111,7 +27079,7 @@
         "scramble": [
           "D",
           "I",
-          "S",
+          "Q",
           "N",
           "N",
           "O",
@@ -28155,7 +28123,7 @@
           "G."
         ],
         "scramble": [
-          "T",
+          "Q",
           "D",
           "R",
           "A",
@@ -28183,7 +28151,7 @@
         "scramble": [
           "D",
           "A",
-          "L",
+          "Q",
           "N",
           "C",
           "I",
@@ -28385,16 +28353,14 @@
           "How",
           "old",
           "are",
-          "you?",
-          "I'm",
+          "you? I'm",
           "eleven."
         ],
         "scramble": [
           "How",
           "old",
           "are",
-          "you?",
-          "I'm",
+          "you? I'm",
           "eleven."
         ],
         "hint": "Bạn bao nhiêu tuổi? Mình mười một tuổi. → How old are you? I'm eleven.",
@@ -28633,9 +28599,7 @@
           "are",
           "you",
           "good",
-          "at?",
-          "I'm",
-          "good",
+          "at? I'm good",
           "at",
           "drawing."
         ],
@@ -28644,9 +28608,7 @@
           "are",
           "you",
           "good",
-          "at?",
-          "I'm",
-          "good",
+          "at? I'm good",
           "at",
           "drawing."
         ],
@@ -28822,15 +28784,13 @@
         "question": "",
         "correctAnswer": [
           "Who's",
-          "this?",
-          "She's",
+          "this? She's",
           "my",
           "grandmother."
         ],
         "scramble": [
           "Who's",
-          "this?",
-          "She's",
+          "this? She's",
           "my",
           "grandmother."
         ],
@@ -28847,9 +28807,7 @@
           "has",
           "a",
           "bed,",
-          "a",
-          "TV,",
-          "and",
+          "a TV, and",
           "two",
           "chairs."
         ],
@@ -28859,9 +28817,7 @@
           "has",
           "a",
           "bed,",
-          "a",
-          "TV,",
-          "and",
+          "a TV, and",
           "two",
           "chairs."
         ],
@@ -28877,9 +28833,7 @@
           "are",
           "you",
           "good",
-          "at?",
-          "I'm",
-          "good",
+          "at? I'm good",
           "at",
           "catching."
         ],
@@ -28888,9 +28842,7 @@
           "are",
           "you",
           "good",
-          "at?",
-          "I'm",
-          "good",
+          "at? I'm good",
           "at",
           "catching."
         ],
@@ -28904,16 +28856,14 @@
         "correctAnswer": [
           "What's",
           "your",
-          "name?",
-          "My",
+          "name? My",
           "name's",
           "Mia."
         ],
         "scramble": [
           "What's",
           "your",
-          "name?",
-          "My",
+          "name? My",
           "name's",
           "Mia."
         ],
@@ -28927,16 +28877,14 @@
         "correctAnswer": [
           "What",
           "is",
-          "it?",
-          "It's",
+          "it? It's",
           "a",
           "rainbow."
         ],
         "scramble": [
           "What",
           "is",
-          "it?",
-          "It's",
+          "it? It's",
           "a",
           "rainbow."
         ],
@@ -29747,8 +29695,7 @@
           "I",
           "open",
           "the",
-          "door?",
-          "Yes,",
+          "door? Yes,",
           "you",
           "may."
         ],
@@ -29757,8 +29704,7 @@
           "I",
           "open",
           "the",
-          "door?",
-          "Yes,",
+          "door? Yes,",
           "you",
           "may."
         ],
@@ -29907,7 +29853,7 @@
         "scramble": [
           "S",
           "N",
-          "T",
+          "Q",
           "E",
           "A",
           "K",
@@ -29951,7 +29897,7 @@
         ],
         "scramble": [
           "S",
-          "E",
+          "Q",
           "H",
           "O",
           "R",
@@ -30281,8 +30227,7 @@
           "Do",
           "you",
           "like",
-          "music?",
-          "Yes,",
+          "music? Yes,",
           "I",
           "do."
         ],
@@ -30290,8 +30235,7 @@
           "Do",
           "you",
           "like",
-          "music?",
-          "Yes,",
+          "music? Yes,",
           "I",
           "do."
         ],
@@ -30594,7 +30538,7 @@
           "H",
           "I",
           "C",
-          "T",
+          "Q",
           "K",
           "E",
           "N."
@@ -31074,7 +31018,7 @@
           "M",
           "A",
           "R",
-          "T",
+          "Q",
           "B",
           "L",
           "S",
@@ -31350,7 +31294,7 @@
         "scramble": [
           "D",
           "E",
-          "U",
+          "Q",
           "N",
           "T",
           "I",
@@ -31474,7 +31418,7 @@
         "scramble": [
           "P",
           "A",
-          "E",
+          "Q",
           "R",
           "R",
           "O",
@@ -31640,8 +31584,7 @@
           "What",
           "do",
           "you",
-          "want?",
-          "I",
+          "want? I",
           "want",
           "a",
           "puzzle."
@@ -31650,8 +31593,7 @@
           "What",
           "do",
           "you",
-          "want?",
-          "I",
+          "want? I",
           "want",
           "a",
           "an",
@@ -31667,8 +31609,7 @@
         "correctAnswer": [
           "What's",
           "your",
-          "name?",
-          "My",
+          "name? My",
           "name's",
           "Alfie."
         ],
@@ -31676,8 +31617,7 @@
           "What's",
           "meow.",
           "your",
-          "name?",
-          "My",
+          "name? My",
           "name's",
           "Alfie."
         ],
@@ -31817,7 +31757,7 @@
         "scramble": [
           "My",
           "favourite",
-          "purple.",
+          "am",
           "colour",
           "is",
           "are",
@@ -31834,8 +31774,7 @@
           "Do",
           "you",
           "like",
-          "P.E.?",
-          "Yes,",
+          "P.E.? Yes,",
           "I",
           "do."
         ],
@@ -31843,8 +31782,7 @@
           "Do",
           "you",
           "like",
-          "P.E.?",
-          "Yes,",
+          "P.E.? Yes,",
           "cupcakes.",
           "I",
           "do."
@@ -31982,7 +31920,7 @@
           "strong."
         ],
         "scramble": [
-          "cold.",
+          "does",
           "My",
           "arms",
           "is",
@@ -32001,8 +31939,7 @@
           "I",
           "open",
           "the",
-          "door?",
-          "Yes,",
+          "door? Yes,",
           "you",
           "may."
         ],
@@ -32013,8 +31950,7 @@
           "I",
           "open",
           "the",
-          "door?",
-          "Yes,",
+          "door? Yes,",
           "you",
           "may."
         ],
@@ -32030,7 +31966,7 @@
           "sneakers."
         ],
         "scramble": [
-          "jeans.",
+          "is",
           "I'm wearing",
           "a ruler.",
           "sneakers."
@@ -32047,7 +31983,7 @@
           "swimming."
         ],
         "scramble": [
-          "singing.",
+          "are",
           "I'm good at",
           "swimming."
         ],
@@ -32135,7 +32071,7 @@
           "a doll."
         ],
         "scramble": [
-          "a door.",
+          "is",
           "I want",
           "a doll."
         ],
@@ -32189,7 +32125,7 @@
           "Japan."
         ],
         "scramble": [
-          "Australia.",
+          "am",
           "I'm from",
           "Japan."
         ],
@@ -32209,7 +32145,7 @@
         "scramble": [
           "is",
           "His",
-          "purple.",
+          "does",
           "eyes",
           "are",
           "brown."
@@ -32244,8 +32180,7 @@
         "correctAnswer": [
           "What's",
           "your",
-          "name?",
-          "My",
+          "name? My",
           "name's",
           "Tom."
         ],
@@ -32253,8 +32188,7 @@
           "What's",
           "does",
           "your",
-          "name?",
-          "My",
+          "name? My",
           "name's",
           "Tom."
         ],
@@ -32305,8 +32239,7 @@
           "How",
           "old",
           "are",
-          "you?",
-          "I'm",
+          "you? I'm",
           "twelve."
         ],
         "scramble": [
@@ -32314,8 +32247,7 @@
           "How",
           "old",
           "are",
-          "you?",
-          "I'm",
+          "you? I'm",
           "twelve."
         ],
         "hint": "Bạn bao nhiêu tuổi? Mình mười hai tuổi. → How old are you? I'm twelve.",
@@ -32346,15 +32278,13 @@
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "Who's",
-          "this?",
-          "She's",
+          "this? She's",
           "my",
           "aunt."
         ],
         "scramble": [
           "Who's",
-          "this?",
-          "She's",
+          "this? She's",
           "my",
           "aunt.",
           "rabbit"
@@ -32393,7 +32323,7 @@
           "an",
           "I want",
           "a car.",
-          "a book."
+          "are"
         ],
         "hint": "Mình muốn một chiếc ô tô. → I want a car.",
         "eraseFlag": 1
@@ -32429,8 +32359,7 @@
           "Do",
           "you",
           "like",
-          "music?",
-          "Yes,",
+          "music? Yes,",
           "I",
           "do."
         ],
@@ -32440,8 +32369,7 @@
           "you",
           "beds",
           "like",
-          "music?",
-          "Yes,",
+          "music? Yes,",
           "I",
           "do."
         ],
@@ -32547,17 +32475,15 @@
         "correctAnswer": [
           "What's",
           "your",
-          "name?",
-          "My",
+          "name? My",
           "name's",
           "Eddie."
         ],
         "scramble": [
           "What's",
           "your",
-          "name?",
+          "name? My",
           "indigo.",
-          "My",
           "name's",
           "red.",
           "Eddie."
@@ -32571,15 +32497,13 @@
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "Who's",
-          "this?",
-          "He's",
+          "this? He's",
           "my",
           "uncle."
         ],
         "scramble": [
           "Who's",
-          "this?",
-          "He's",
+          "this? He's",
           "at",
           "my",
           "uncle."
